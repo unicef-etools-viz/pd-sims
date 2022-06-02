@@ -4,4 +4,4 @@ pandas
 matplotlib
 streamlit
 plotly
-PIL
+pillow

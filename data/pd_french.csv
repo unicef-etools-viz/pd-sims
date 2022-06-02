@@ -1,0 +1,682 @@
+,title,language
+0,Nombre de personnes touchées par le biais de messages sur la prévention et l'accès aux services en matière de COVID-19,Language.FRENCH
+1,"Nombre de personnes engagées dans la réponse au COVID-19 par le biais des actions du RCCE (leaders associatifs de migrants, religieux, influenceurs locaux, leaders féminines ou de jeunesse, agents communautaires…)",Language.FRENCH
+2,Nombre de personnes partageant leurs préoccupations et posant des questions / clarifications sur les services de soutien disponibles pour répondre à leurs besoins grâce à des mécanismes de rétroaction établis,Language.FRENCH
+3,"Nombre d'enfants, de parents et de professionnels de la prise en charge recevant un soutien psychosocial et de santé mentale communautaire",Language.FRENCH
+4,"Nombre d'enfants migrants quel que soient leur statut migratoire et leur citoyenneté, ayant bénéficié de services de santé adaptés à leurs besoins y compris la nutrition et la prise en charge de la violence",Language.FRENCH
+5,Nombre de bénéficiaires des séances d’éducation parentale pour la santé de la mère et de l’enfant,Language.FRENCH
+6,"Nombre de personnes formées en RBM et procédures HACT, PSEA, GBV, e-tools",Language.FRENCH
+7,Nombre de femmes notamment enceintes ayant bénéficié de service de soins y compris la nutrition et la prise en charge de la violence,Language.FRENCH
+8,nombre de pairs éducateurs engage,Language.FRENCH
+9,Nombre cumulé de personnes qui vivent dans les villages certifiés ODF selon le protocole national ODF,Language.FRENCH
+10,"% de centres de santé, centres de nutrition certifiés une Etoile qui maintiennent leur statut Etoile",Language.FRENCH
+11,Nombre d’enquête CAP initiale et finale réalisée,Language.FRENCH
+12,Nombre de comites de gouvernance locale mise en place à chaque niveau,Language.FRENCH
+13,Montant total de l’épargne des groupes VSLA,Language.FRENCH
+14,Nombre cumulatif de personnes qui utilisent des latrines basic (améliorées et non partagées),Language.FRENCH
+15,% de villages qui possède des commerces ou activités AGR à petite échelle prise en charge par le VSLA,Language.FRENCH
+16,"Nombre de personnes (Hommes, Femmes, Filles, Garçons) qui a amélioré sa connaissance et attitude sur la gestion de l’hygiène menstruelle",Language.FRENCH
+17,Nombre de points d’eau avec des comités de gestion fonctionnels,Language.FRENCH
+18,Parmi les comités de gestion des points d’eau fonctionnels : proportion de femmes ayant des rôles exécutifs,Language.FRENCH
+19,Nombre de centres de santé nouvellement certifiés une Etoile promouvant le changement de comportement et la création de demande dans les régions cibles,Language.FRENCH
+20,Nombre d'écoles avec des activités de gestion de l'hygiène menstruelle mises en œuvre,Language.FRENCH
+21,Nombre de nouveaux villages autoproclamés ODF selon le protocole national ODF,Language.FRENCH
+22,"Nombre de personnes qui vivent dans une communauté ""water safe""",Language.FRENCH
+23,Nombre de diagnostic participatifs réalisés,Language.FRENCH
+24,Nombre de groupes VSLA établis,Language.FRENCH
+25,Nombre cumulatif de personnes abandonnant la défécation à l'air libre,Language.FRENCH
+26,Nombre cumulatif de personnes qui disposent d’installations de lavage des mains avec de l’eau et du savon/cendres,Language.FRENCH
+27,Nombre de personnes qui connait et pratique le lavage des mains dans les 5 moments critique,Language.FRENCH
+28,% de femmes et de filles utilisant des serviettes hygiéniques a un cout abordable,Language.FRENCH
+29,Parmi les comités de gestion des points d’eau fonctionnels : proportion de femmes membres des comités,Language.FRENCH
+30,"Nombre de ménages qui suivent les bonnes pratiques de transport, stockage et du traitement d'eau à domicile",Language.FRENCH
+31,Nombre d’écoles nouvellement certifiées une Etoile promouvant le changement de comportement et la création de demande dans les régions cible,Language.FRENCH
+32,%ge d’élèves (filles/garçons) dans les institutions nouvellement certifiées 1 Star,Language.FRENCH
+33,Eif 2.2: # D’Écoles Publiques Dans Les Communautés Ciblées Dans Lesquelles Des Interventions De Changement De Comportement En Matière D'Assainissement Et D’Hygiène Sont Mises En Œuvre,Language.FRENCH
+34,Eif 2.3: # D’Étudiants (Garçons/Filles) Qui Fréquentent Des Écoles Publiques Dans Les Communautés Ciblées Dans Lesquelles Des Interventions De Changement De Comportement En Matière D’Assainissement Et D’Hygiène Sont Mises En Œuvre,Language.FRENCH
+35,Eif 3.1: # De Communautés Ciblées Soutenues Par Le Programme Qui Mènent Des Activités Par Rapport À L'Assainissement Géré En Toute Sécurité,Language.FRENCH
+36,Eif 3.7 : # De Communautés Ciblées Soutenues Par Le Programme Qui Mènent Des Activités Pour Répondre Aux Risques Et Aux Vulnérabilités Liés Au Climat,Language.FRENCH
+37,Eif 4.1: # De Communautés Ciblées Soutenues Par Le Programme Pour Établir Des Systèmes De Soutien Efficaces Pour Les Ménages Vulnérables (O),Language.FRENCH
+38,Eif 4.2: # De Groupes Communautaires Mobilisés Par Le Programme,Language.FRENCH
+39,EIF 2.1.a : # de personnes touchées par les campagnes de lavage des mains et de promotion du savon,Language.FRENCH
+40,EIF 2.1: # de communautés ciblées dans lesquelles des interventions de changement de comportement collectif en matière d'assainissement et d’hygiène (telles que l’ATPC) sont mises en œuvre,Language.FRENCH
+41,EIF 2.1.c : # de communautés touchées par des campagnes de lavage des mains et de promotion du savon,Language.FRENCH
+42,EIF 2.3: # d’étudiants (garçons/filles) qui fréquentent des écoles publiques dans les communautés ciblées dans lesquelles des interventions de changement de comportement en matière d’assainissement et d’hygiène sont mises en œuvre,Language.FRENCH
+43,EIF 2.5: # de communautés ciblées soutenues par le programme qui mettent en œuvre un plan d’action post-FDAL (O),Language.FRENCH
+44,EIF 3.1: # de communautés ciblées soutenues par le programme qui mènent des activités par rapport à l'assainissement géré en toute sécurité,Language.FRENCH
+45,EIF 3.3: # de communautés ciblées où le programme encourage les activités de promotion de l’hygiène de l’eau au niveau domestique (O),Language.FRENCH
+46,EIF 3.4: # d’entrepreneurs et d'artisans locaux liés à l’assainissement et l’hygiène soutenus par le programme,Language.FRENCH
+47,EIF 3.5: : # de personnes atteintes par le programme avec des messages ou des interventions sur la gestion de l'hygiène menstruelle (GHM) (O),Language.FRENCH
+48,EIF 3.5 A : # de personnes formées aux approches sur la gestion de l'hygiène menstruelle (GHM) (F),Language.FRENCH
+49,EIF 3.5 C : # Nombre d’enseignants qui ont reçu une formation dédiée à la gestion de l’hygiène menstruelle,Language.FRENCH
+50,EIF 3.7 : # de communautés ciblées soutenues par le programme qui mènent des activités pour répondre aux risques et aux vulnérabilités liés au climat,Language.FRENCH
+51,EIF 4.1: # de communautés ciblées soutenues par le programme pour établir des systèmes de soutien efficaces pour les ménages vulnérables (O),Language.FRENCH
+52,EIF 4.2: # de groupes communautaires mobilisés par le programme,Language.FRENCH
+53,EIF 4.3 : # de leaders naturels engagés dans des programmes soutenus par le GSF (M),Language.FRENCH
+54,Eif 2.1: # De Communautés Ciblées Dans Lesquelles Des Interventions De Changement De Comportement Collectif En Matière D'Assainissement Et D’Hygiène (Telles Que L’Atpc) Sont Mises En Œuvre,Language.FRENCH
+55,Eif 3.4: : # De Personnes Atteintes Par Le Programme Avec Des Messages Ou Des Interventions Sur La Gestion De L'Hygiène Menstruelle (Ghm) (O),Language.FRENCH
+56,Nombre de personnes (fille/garcon) pouvant citer au moins 2 mesures barrieres a travers les emissions interactives,Language.FRENCH
+57,Nombre d'élèves (âgés de 5 à 17 ans) dont l'école est située dans une zone affectée par la MVE ou à risque qui ont bénéficié d'une séance de sensibilisation à l'hygiène (désagrégé par genre),Language.FRENCH
+58,% staff du partenaire forme en genre,Language.FRENCH
+59,Pourcentage (%) des membres de staff du projet du formés sur la PSEA,Language.FRENCH
+60,Pourcentage (%) des membres de staff du projet ayant signé le code de conduite,Language.FRENCH
+61,EIF 2.6: Nombre de personnes/ménages/communautés touchés par les campagnes de promotion du lavage des mains au savon « y compris pour la réponse à la COVID »,Language.FRENCH
+62,"1.1.	# enfants, adolescentset parents / tuteurs qui bénéficient des activités de soutien psychosocial",Language.FRENCH
+63,1.1.1	# enfants et adolescents participants aux activités récréatives et socioéducatives et de sensibilisation dans les espaces amis des enfants.,Language.FRENCH
+64,"1.1.2	# enfants, adolescents et parents ayant bénéficié du soutien psychosocial rapproché",Language.FRENCH
+65,"2.1 # de femmes, filles et garçons qui accèdent aux interventions de prévention et mitigation des risques de VBG",Language.FRENCH
+66,2.2 # enfants et adolescents victimes de violations y compris les VBG qui sont systématiquement documentés dans une base de données confidentielle et référés aux services de réponse,Language.FRENCH
+67,2.3 .# enfants séparés ou non accompagnés qui sont référés pour la prise en charge alternative ou le placement familial,Language.FRENCH
+68,"2.5. # de personnes vulnérables et à besoins spécifiques ayant été identifiées (filles, garçons, femmes et hommes) et ayant accès à un canal/mécanisme sûr et accessible pour signaler l'exploitation et les abus sexuels",Language.FRENCH
+69,2.6. % de membres du personnel/volontaires de SAD ayant suivi une formation sur l'atténuation des risques de VBG et l'orientation des survivants (AGORA),Language.FRENCH
+70,3.1. # membres des structures communautaires de protection identifiés et formés pour disséminer les bonnes pratiques parentales,Language.FRENCH
+71,3.2. # de personnes vulnérables et à besoins spécifiques ayant été identifiées et référés pour l’accès aux services de base par les structures communautaires,Language.FRENCH
+72,"# d'enfants-journalistes formés et capables de parler de leurs droits à travers la presse écrite, audiovisuelle, et les plateformes digitales et mobiles au niveau national",Language.FRENCH
+73,"# d’adolescents qui suivent et complètent le programme de compétences de vie, compétences du 21ème siècle incluant les innovations à impact social à travers les plateformes digitales autour de la « marque des adolescents »",Language.FRENCH
+74,# d'adolescents utilisant les plateformes digitales pour la soumission et promotion de leurs innovations à impact social,Language.FRENCH
+75,# d'écoles bénéficiant de services d'assainissement à la fin de l'année considérée uniquement,Language.FRENCH
+76,"# d'hommes, femmes, de filles et de garçons ayant accès, de manière durable, aux services d'eau potable à la fin de l'année considérée uniquement",Language.FRENCH
+77,# de communautés certifiées FDAL au cours de l'année considérée comme résultats de l'appui direct de l'UNICEF.,Language.FRENCH
+78,#  de personnes ayant reçu kit de protection individuelle pour se protéger du Covid-19,Language.FRENCH
+79,# mineurs en garde à vue qui bénéficient d’une assistance sociale et juridique jouir les droits légaux conférés aux mineurs,Language.FRENCH
+80,# MCL ayant terminé la formation professionnelle bénéficiant d’un perfectionnement des compétences métier,Language.FRENCH
+81,# d’enfants de moins de trois ans dans la prison pour femmes de Ngozi et dans la prison de Ruyigi bénéficiant d’activités adaptées à leur âge,Language.FRENCH
+82,# MCL incarcérés et venant de la communauté sont formés pour l’acquisition de compétences professionnelles,Language.FRENCH
+83,# MCL réinsérés et suivi dans la communauté après leur libération,Language.FRENCH
+84,# des enfants vulnérables pris en charge par une structure communautaire (CPE et/ou GS),Language.FRENCH
+85,"# d’enfants vulnérables appuyés dont les besoins dépassent la capacité de réponse des GS et CPE (l’enregistrement à l’état civil, kit de scolarisation, couts liés à des services prioritaires, …)",Language.FRENCH
+86,"Nombre de Structures de santé qui disposent de la plateforme Medexis configurée, testée et fonctionnelle pour les intrants de la vaccination",Language.FRENCH
+87,Pourcentage (%) des structures sanitaires (BDS et CDS) qui disposent de la gamme complète des intrants nutritionnels et de la vaccination,Language.FRENCH
+88,Pourcentage (%) de structures sanitaires (BDS et CDS) avec 0 jour rupture de stock en intrants nutritionnels et de vaccination par mois,Language.FRENCH
+89,Pourcentage (%) de structures sanitaires (BDS et CDS) avec Consommation Moyenne Mensuelle (CMM) marquée sur 100% des fiches de stock des intrants nutritionnels,Language.FRENCH
+90,# de jeunes filles/femmes ayant eu accès aux kits d'hygiène,Language.FRENCH
+91,#adolescents engagés dans des initiatives issus des sondages,Language.FRENCH
+92,# d'écoles dont les  latrines sont rehabilitées,Language.FRENCH
+93,Nombre de personnes de la commune Nyanza Lac ayant accès à l’eau potable,Language.FRENCH
+94,# d'adolescents inscrits sur la plateforme U-report,Language.FRENCH
+95,# de points d'eau rehabilites,Language.FRENCH
+96,# Nombre des MLs et des ASCs formées sur la surveillance et la promotion de la croissance,Language.FRENCH
+97,Nombre d’enfants de 0-23mois surveillés chaque mois,Language.FRENCH
+98,Nombre d’enfants suivis après la sortie du FARN,Language.FRENCH
+99,"Nombre d’associations villageoises d’épargne et de crédit ciblant les ML, les parents des enfants malnutris et autres vulnérables mise en place et appuyés",Language.FRENCH
+100,nombre d’enfants de 24-59 mois surveillés chaque trimestre,Language.FRENCH
+101,Nombre des enfants ayant bénéficiés des compléments alimentaires équilibrés,Language.FRENCH
+102,Nombre des associations des femmes formées et encadrées sur la production des compléments alimentaires équilibrés,Language.FRENCH
+103,"""Nombre d'enfants (F/G) touchés par les actions de communication pour le respect des mesures barrières et la promotion de la continuité éducative et la lutte contre les violences basées sur le genre  promotion de la continuité éducative et la lutte contre les violences basées sur le genre""",Language.FRENCH
+104,Nombre d'enfants (F/G) bénéficiiares des cours de remédiation à la rentrée,Language.FRENCH
+105,Nombre d'énfants (F/G) bénéficiaires de matériels didactiques et d'apprentissage à la rentrée,Language.FRENCH
+106,Nombre d'apprenants bénéficiaires (F/G) de l'enseignement à distance (y inclus distribution de supports papiers),Language.FRENCH
+107,Nombre d'enfants (F/G) qui sont retournés à l'école à la réouverture,Language.FRENCH
+108,Nombre de parents (H/F) membres de COGEP/COGERES formés sur le protocole ‘Ecole sûre,Language.FRENCH
+109,Nombre d’enfants (F/G) bénéficiaires de kits d’hygiène,Language.FRENCH
+110,Nombre d'enfants (F/G) bénéficiiares des cours de remédiation,Language.FRENCH
+111,Nombre d'enfants (F/G) touchés par les actions de communication pour le respect des mesures barrières et la promotion de la continuité éducative et la lutte contre les violences basées sur le genre  promotion de la continuité éducative et la lutte contre les violences basées sur le genre,Language.FRENCH
+112,Nombre total d'enfants de 0-59 mois MAS pris en charge,Language.FRENCH
+113,Nombre d’enfants touchés à tarvers  les campagnes d’nformation y compris la lutte contre les violences,Language.FRENCH
+114,Nombre d’enfants qui accèdent à une éducation primaire de qualité avec l’appui de l’initiative,Language.FRENCH
+115,Nombre de parents atteints par les séances d’information et communication.,Language.FRENCH
+116,Nombre de membres de Comités de gestion formés à la gouvernance des écoles,Language.FRENCH
+117,Nombre d’enfants hors école inscrits dans le système éducatif (y inclus le système non-formel) avec l’appui de l’initiaitve,Language.FRENCH
+118,Psychologues et acteurs communautaires mis à contribution dans 40 communes des 8 provinces choisies pour assurer la prise en charge psychosociale des enfants à risque d’ etre affectes par le COVID ou les VSBG   Baseline,Language.FRENCH
+119,"lles et garçons ayant bénéficié des services psychosociaux comprennant l’écoute et orientation, le counseilling individual, le coaching familial et le référencement",Language.FRENCH
+120,# d'enfants et d'adultes qui ont accès à un canal sûr et accessible pour signaler l'exploitation et les abus sexuels,Language.FRENCH
+121,# enfants et femmes accédant à l'atténuation des risques de violence basée sur le genre et les interventions de prévention,Language.FRENCH
+122,# enfants et d'adultes qui ont accès à un canal/mecanisme sûr et accessible pour signaler l'exploitation et les abus sexuels,Language.FRENCH
+123,"# Filles et garçons survivants de violations graves (VBG, SEA, traite), d'abus et d'exploitation référés des services de santé, d’accompagnement psychosocial, ou d’assistance juridique ou d’aide légale",Language.FRENCH
+124,# Filles et garcons privés de soins parentaux ou familiaux bénéficiant de dispositifs de prise en charge alternatifs appropriés,Language.FRENCH
+125,# Filles et garcons bénéficiant d'une réintégration socio-économique et scolaire,Language.FRENCH
+126,# filles et garçons survivant(e)s de la traite reintegres dans la communaute et ayant recu les kit de reinsertion,Language.FRENCH
+127,# filles a besoin specifiques participants dans les activites d’epargne et credit dans les groupes de solidarité,Language.FRENCH
+128,# chefs de ménages en charge d’enfants vulnérables participant dans les groupes de solidarité Nawe Nuze,Language.FRENCH
+129,"# filles identifiées sont inscrites à des cours de formation alternative (  metier, CVC)",Language.FRENCH
+130,# filles et autres enfants vulnérables qui bénéficient  d’un appui scolaire,Language.FRENCH
+131,# enfants privés de soins parentaux ou familiaux bénéficiant de dispositifs de prise en charge alternatifs appropriés,Language.FRENCH
+132,# filles et garcons vulnérables qui bénéficient des services sociaux de base adéquats,Language.FRENCH
+133,# personnes touchées par les sensibilisations,Language.FRENCH
+134,#  membres du personnel/volontaires de UCBUM  ou leaders communautaires ayant suivi une formation sur l'atténuation des risques de VBG et l'orientation des survivants,Language.FRENCH
+135,# chefs de ménages en charge des enfants vulnérables/à risque bénéficiant de renforcement socioéconomique à travers leur participation dans les groupes de solidarité,Language.FRENCH
+136,# de personnes sensibilisées sur la  traite (y compris les membres des groupes de solidarité),Language.FRENCH
+137,% de victimes (enfants et adultes) de la traite référées à l’assistance,Language.FRENCH
+138,% de staff ayant compléter la formation sur le réduction des risques de GBViE sur AGORA et ou face a face,Language.FRENCH
+139,# filles et garcons et adultes qui ont accès à un canal/mecanisme sûr et accessible pour signaler l'exploitation et les abus sexuels (via la ligne 116),Language.FRENCH
+140,# femmes enceintes vulnérables ou mères d'enfants âgés de moins de 5 ans qui participent aux associations villageoises d’épargne et de prêts (AVEP),Language.FRENCH
+141,# de ménages tenus par femmes enceintes vulnérables ou mères d’enfants de moins de 5 ans malnutris qui bénéficient des foyers améliorés,Language.FRENCH
+142,# de ménages tenus par femmes enceintes vulnérables ou mères d’enfants de moins de 5 ans malnutris disposant d’un jardin potager,Language.FRENCH
+143,"# de garçons et filles vulnérables ayant bénéficié de services appropriés (enregistrement à l’état civil, appui psychosocial, assistance juridique, réintégration scolaire, refuge d'urgence) en collaboration avec lesCPE et/ou GS",Language.FRENCH
+144,# de menagesvulnerables disposant des kits énergetiques fonctionnels,Language.FRENCH
+145,# enfants dont les délits mineurs les impliquant sont résolus par voie de conciliation-réparation initiée par les CPE,Language.FRENCH
+146,# d’enfants retirés des situation/travaux dangereux et réinsérés,Language.FRENCH
+147,"# de personnels formés sur le paquet intégré ANJE, DPE, FARN/FAN, réduction des risques de GBVIE et prévention du COVID-19",Language.FRENCH
+148,# d’enfants de 6 à 59 mois avec MAM admis dans le FARN et bénéficiant du paquet multisectoriel de nutrition et activités récréatives,Language.FRENCH
+149,# d’enfants de 6-23 mois recevant les poudres de Micronutriments Multiples,Language.FRENCH
+150,"Nombre d’enfants de moins de 5 ans bénéficiant des activités de stimulation psycho cognitive mise en place dans les FAN/FARNs, SST/STA, CPE.",Language.FRENCH
+151,Nombre d’enfants de moins de 5 ans enregistrés dans les 14 garderies communautaires,Language.FRENCH
+152,"# enfants appuyés et suivis par les GS (visite familiale une fois les deux semaines, appuis scolaires, soins médicaux, appui alimentaire, enregistrement a l’etat civil, hebergement temporaire etc.)",Language.FRENCH
+153,# de  victimes de traite identifiées,Language.FRENCH
+154,# ménages avec enfants a risque qui sont renforcés sur les bonnes pratiques parentales,Language.FRENCH
+155,"1.1.	  #enfants, filles et garçons, ciblés par les activités de protection ayant accès à des interventions d'atténuation des risques, de prévention ou de réponse en matière de VBG.Baseline (F :8 660; G :5 773)        Target  16000 (F :9600; G: 6400) dont 25 vivant avec handicap (15 F;10G)",Language.FRENCH
+156,Filles et garcons bénéficiant d'une réintégration socio-économique (120) ou scolaire (365) Baseline : 0                       Target 485 ( 291F : 194G :)  dont 13 vivant avec handicap( 8F ;5G),Language.FRENCH
+157,3.2. # personnes touchées par les sensibilisations portant sur les thematiques de protection de l’enfance Base line (F :8653 ; M :5769) Target F :18253 ; M :12169),Language.FRENCH
+158,"# Filles et garçons survivants de violations graves (VBG, SEA, traite), d'abus et d'exploitation bénéficient des services sociaux de base adéquats4",Language.FRENCH
+159,"# Filles et garçons vulnérables pris en charge/encadrés par les groupes de solidarité.   Cible totale ≥ 40,391 (F : 25,050 ; M : 15, 341)",Language.FRENCH
+160,"# enfants qui ont utilisé un canal/mécanisme sûr et accessible pour signaler l'exploitation et les abus sexuels (via la ligne 116)   Cible totale : ≥ 2,02211 (F : 1,331 ; M : 691)",Language.FRENCH
+161,# points focaux qui rapportent sur les violations des droits de l’enfant,Language.FRENCH
+162,# Filles et garcons vulnérables pris en charge/encadrés par les groupes de solidarité.,Language.FRENCH
+163,"1.2.	# enfants (désagrégés par sexe et tranche d'âge) ayant accès au soutien en santé mentale et psychosocial (à travers des espaces amis des enfants renforcés).  Baseline : 5000 (3000F : 2000 G :      Target :10000  (6000F ;4000 G)( cumulatif), dont 40  vivant avec handicap( 24F ;16H).",Language.FRENCH
+164,membres du personnel/volontaires de SAD ou leaders communautaires ayant suivi une formation sur l'atténuation des risques de VBG et l'orientation des survivants     Baseline :200 (120F ;80G)                 Target 260 (156F;104G),Language.FRENCH
+165,.3 # enfants et d'adultes qui ont accès à un canal/mécanisme sûr et accessible pour signaler l'exploitation et les abus sexuels (via la ligne 116),Language.FRENCH
+166,# Filles et garçons privés de soins parentaux ou familiaux bénéficiant de dispositifs de prise en charge alternatifs appropriés (via les FAV/centre d’accueil temporel)   (cible total:≥ 3006 ; F : 252 ; M : 48),Language.FRENCH
+167,"% chefs de ménages accompagnés dans l’acquisition des bonnes pratiques parentales Objectif : ≥ 34 % (Numérateur8 : 7,151 ; Dénominateur9 21,031 ménages)",Language.FRENCH
+168,# d’acteurs dont les connaissance  sur la communication pour le changement de comportement sont ameliores.,Language.FRENCH
+169,#d’animateurs communautaires qui disposent de connaissance en C4D,Language.FRENCH
+170,"# d’enfants appuyé par les membres des GS (appui alimentaire, vestimentaire, kit scolaire, enregistrement à l’Etat civil, hébérgement temporaire,etc.",Language.FRENCH
+171,# enquêteurs formés,Language.FRENCH
+172,% des enfants de 6 à 23 mois des menages ciblés ayant consommés au moins 4 groupes d’aliments,Language.FRENCH
+173,Nombre d’enseignantes et enseignants suivis et accompagnés,Language.FRENCH
+174,Pourcentage des filles et garçons scolarisés qui ont augmenté leurs connaissances sur la puberté et la GHM à la fin du projet.,Language.FRENCH
+175,"1.2 Nombre de formateurs/formatrices formé-es sur la transformation des conflits, les droits des enfants, la masculinité positive et la prévention du mariage d’enfants",Language.FRENCH
+176,1.3 Nombre de personne dans les zones du programme qui participent à des sessions de dialogues communautaires,Language.FRENCH
+177,"1.4 Nombre de femmes, d'hommes, de filles et de garçons touché-es par les activités de sensibilisation",Language.FRENCH
+178,Réunions de coordination organisées par ou avec le CDFC et dont les procès-verbaux sont communiqués entre les membres et avec le niveau central et les recommandations sont effectivement mises en oeuvre.,Language.FRENCH
+179,"enfants appuyés et suivis par les GS (visite familiale une fois les deux semaines, appuis scolaires, soins médicaux, appui alimentaire, enregistrement a l’etat civil, hébergement temporaire etc.)",Language.FRENCH
+180,"# groupes de solidarités développés et fonctionnels (communes Cankuzo et Mishiha) qui fournissent des services de protection aux enfants en mobilité, rapatriés ou survivants de violations graves (VBG, SEA, traite), d'abus et d'exploitation.",Language.FRENCH
+181,Existence d’un mécanisme fonctionnel de signalement et référencement des cas d’AES dans la province de Cankuzo,Language.FRENCH
+182,Existence des procédures d’enquêtes sur les cas d’AES,Language.FRENCH
+183,"# de CPE mis en place/redynamises et fonctionnels pour assurer la prévention, protection et suivi/référencement des enfants victimes d’abus, violences et exploitations dans les 5 communes ciblées et province de Cankuzo (Kigamba, Mishiha, Cankuzo, Cendajuru et Gisagara).",Language.FRENCH
+184,"enfants (en mobilité, rapatriés ou survivants de violations graves (VBG, SEA, traite), d'abus et d'exploitation)  ayant bénéficié d’une réponse complémentaire en urgence (dispositifs de prise en charge alternatifs appropriés, réunification familiale, réintégration sociale et économique).",Language.FRENCH
+185,de bénéficiaires ayant accès au mécanisme sécurisé et confidentiel de rapportage des cas d’AES,Language.FRENCH
+186,"enfants rapatriés, déplacés et autres vulnérables ayant reçu un extrait d’acte de naissance.",Language.FRENCH
+187,6.4.3. Nombre de personnes recevant une assistance rapide multisectorielle.,Language.FRENCH
+188,"# enfants vulnérables (dont 84,000 filles) qui bénéficient de matériels scolaires pour les cours de rattrapage.",Language.FRENCH
+189,# enseignants et autres responsables de l'éducation formes sur les methodes d'organisation des activités ludiques et récréatives,Language.FRENCH
+190,"# enfants accédant à l'éducation formelle ou non formelle, y compris l'apprentissage précoce",Language.FRENCH
+191,# enseignants et autres responsables de l'éducation orientés sur l’organisation des cours de remédiation/rattrapages,Language.FRENCH
+192,# enseignants et autres responsables de l'éducation formés sur l'éducation en situations d'urgence et la réduction des risques,Language.FRENCH
+193,# enfants et d’enseignants atteints par les messages de sensibilisation contre le COVID-19 dans les écolés,Language.FRENCH
+194,1.2.	Nombre d'enfants en situation de migration qui bénéficient de services de protection dans le cadre des programmes appuyés par l'UNICEF pendant la durée du projet,Language.FRENCH
+195,1.3.	Nombre d'enfants migrants soutenus pour une intégration socio-économique,Language.FRENCH
+196,de personnes partageant leurs préoccupations grâce aux mécanismes de rétroaction établis,Language.FRENCH
+197,"# personnes, des communautés dans les zones affectées et à haut risque connaissent les modes de transmissions du Choléra et de la COVID 19 et s’approprient des mesures préventives communautaires pour arrêter l’épidémie. Valeur de base : 0 ; Cible",Language.FRENCH
+198,# personnes des ménages des groupes de solidarité soutenus pour un changement de comportement en matière d’hygiène grâce à la fourniture de bons d’achat pour des fournitures d’hygiène,Language.FRENCH
+199,de personnes utilisant des douches construites,Language.FRENCH
+200,personnes touchées affectées ou à risque de crise ayant accès à des installations sanitaires adéquates,Language.FRENCH
+201,% d'enfants de 0-59 mois  atteints de malnutrition aiguë sévère (MAS) qui bénéficient d'un traitement de qualité par SAM.,Language.FRENCH
+202,Nombre d’enfants âgées de 0 à 59 mois atteints de malnutrition aigue sévère qui sont admis en traitement et qui se abadonnent,Language.FRENCH
+203,"Nombre de RECO Briefés sur la PCIME, PCIMA et suivi communautaire",Language.FRENCH
+204,"3.3.1.2. Nombre de personnes, désagrégées par sexe, touchées grâce à des campagnes de sensibilisation sur les normes sociales concernant le genre, la nutrition et WASH et la division du travail entre les sexes.",Language.FRENCH
+205,"3.3.2.5. Nombre d’adolescents filles et garçons formés à la sexualité, au risque de grossesse précoce, aux compétences de vie, à l'hygiène et à la gestion menstruelle",Language.FRENCH
+206,2.3.1.2. Nombre d'enfants de 0-59 mois MAS pris en charge,Language.FRENCH
+207,2.3.1. Nombre d'enfants âgés de 6 à 59 mois atteints de MAS (Malnutrition Aiguë Sévère) qui sont admis pour traitement,Language.FRENCH
+208,2.3.3.2. Nombre de mères/gardiens d'enfants de 0-23 mois conseillés en ANJE en situation d'urgence.,Language.FRENCH
+209,"Nombre de personnes formées sur le genre, leadership et mariage précoce.",Language.FRENCH
+210,Nombre adolescents formés dans les écoles,Language.FRENCH
+211,Nombre adolescents touchés par les émissions radios,Language.FRENCH
+212,6.3.4.2.  Nombre d’experts en C4D formés au niveau provincial.,Language.FRENCH
+213,"6.3.4.3. Nombre d'acteurs communautaires formés en PFE, CIP et approches participatives (Membres des CAC, Reco…)",Language.FRENCH
+214,6.3.4.4. Nombre de journalistes et producteurs des radios formés en PFE et approches participatives,Language.FRENCH
+215,5.3.2.1. Nombre de personnes formées sur la protection de l’enfant en urgence et PSEA,Language.FRENCH
+216,5.3.2. 2. Nombre de personnes et enfants sensibilisés sur les risques de séparation familiale et risques de protection de l’enfance.,Language.FRENCH
+217,5.3.3.9 Nombre de personnes ayant accès à un canal sûr et accessible pour signaler l'exploitation et les abus sexuels,Language.FRENCH
+218,"5.3.4.2.  Nombre des officier Policier PNC, DGM et ANR formés sur le plan d’action RDC-ONU.",Language.FRENCH
+219,Nombre des enfants souffrant de la malnutrition (MAS) identifiés et orientés vers les Centre de traitement,Language.FRENCH
+220,6.3.3.4. Nombre des journalistes (personnels de médias) et producteurs de radios formés sur PFE et approches participatives,Language.FRENCH
+221,"6.3.4.3. Nombre d'acteurs communautaires formés en PFE,  CIP et approches participatives (Membres des CAC, Reco…)",Language.FRENCH
+222,4.2.2. Nombre d’adolescents filles et garçons en dehors de l’école soutenus pour accéder à l’apprentissage alternatif existants y compris la formation professionnelle.,Language.FRENCH
+223,4.2.1.1.1. Nombre des membres des coopératives féminines formés,Language.FRENCH
+224,"4.2.2.1. Nombre d'enfants et adolescents particulièrement ceux hors de l'école bénéficiant d'un appui pour l'accès et le maintien à des offres d'éducation formelle et non formelle : désagrégation par genre et profil (enfants au pré-primaire; enfants au primaire, enfants d'âge secondaire).",Language.FRENCH
+225,4.3.1. Nombre des filles et des garçons (5 -17 ans) touchés par des crises causés par l’homme ou des catastrophes naturelles et ayant accès à une éducation de qualité.,Language.FRENCH
+226,4.3.2. Nombre d’enseignants formés sur les soutiens psychosocial.,Language.FRENCH
+227,"4.3.3.1 Nombre d'enseignants dans les zones d'urgences formés à au moins une des thématiques suivantes : méthodologies centrées sur l'apprenant,  l'éducation à la paix, la prévention de la MVE,  la réduction des risques de conflits et de catastrophes.",Language.FRENCH
+228,4.3.3.2. Nombre d'enseignants  dans les zones d'urgences formés sur l'appui psychosocial.,Language.FRENCH
+229,4.3.3.3.1. Nombre d’enseignants et directeurs formés sur la prévention VBG et covid 19 en milieux scolaire.,Language.FRENCH
+230,4.3.3.5.1. Nombre d’enfants et adolescents formés sur les strategies de consolidation de paix.,Language.FRENCH
+231,"5.1.2 Nombre d'enfants vulnérables, incluant les EAFGA, enregistrés en dehors du délai légal, sur la base d'un jugement supplétif (ventilé par sexe)",Language.FRENCH
+232,"5.1.1. Nombre d'enfants enregistrés dans des bureaux d'états civil principaux et secondaires (incluant dans les maternités, ventilé par sexe)",Language.FRENCH
+233,"5.1.1.3. Nombre d’acteurs formés sur l’enregistrement des naissances (OEC, préposés et autres acteurs)",Language.FRENCH
+234,5.1.1.4 Nombre d’enfants enregistrés dans le délai légal,Language.FRENCH
+235,5.1.1.5. Nombre d’enfants enregistrés dans le délai légal et ayant reçu un acte de naissance,Language.FRENCH
+236,5.1.2.1 Nombre d’enfants enregistrés à l'état civil par rattrapage,Language.FRENCH
+237,5.3.1. Nombre de filles et de garçons associé-e-s à des groupes armés ayant bénéficié d'une réintégration socio-économique dans leurs communautés,Language.FRENCH
+238,5.3.2. Nombre d'enfants non-accompagnés ou séparés ayant bénéficié d'une réunification avec leurs familles ou d'une solution à long-terme,Language.FRENCH
+239,"5.3.3. Nombre d'enfants vulnérables ayant bénéficié d'assistance psychosociale à des niveaux variés: enfant, adolescents, prestataires de soin et communautés",Language.FRENCH
+240,5.3.4. Nombre de filles et garçons survivant-e-s de violences sexuelles et basées sur le genre ayant bénéficié d'une réponse holistique,Language.FRENCH
+241,5.3.3.1. Nombre de filles et de garçons associés aux forces / groupes armés identifiés et ayant bénéficié d'un suivi individuel,Language.FRENCH
+242,5.3.3.2.   Nombre de filles et de garçons associés aux forces / groupes armés ayant bénéficié d'un soutien pour la réintégration.,Language.FRENCH
+243,"5.3.3.3. Nombre de filles et de garçons non accompagnés identifiés et placés dans une prise en charge transitoire ou une alternative appropriée (CTO, FAT, FAS, etc.)",Language.FRENCH
+244,5.3.3.4. Nombre de filles et de garçons non accompagnés réunifies avec leur famille ou bénéficiant de solutions durable,Language.FRENCH
+245,"5.3.3.5.  Nombre de filles et de garçons vulnérables bénéficiant de soutien psychosocial, incluant l'accès aux Espaces Amis d'Enfants",Language.FRENCH
+246,"5.3.3.6. Nombre de filles, de garçons et de femmes ayant survécu à une violence basée sur le genre et recevant une assistance appropriée",Language.FRENCH
+247,5.3.3.7. Nombre de hommes femmes garçons filles bénéficiant de mesures de prévention et sensibilisation sur le VBG,Language.FRENCH
+248,5.3.3.5.1. Nombre d'enfants affectés par les conflits ayant été accompagnés dans les EAE.,Language.FRENCH
+249,5.3.3.6.1. Nombre de survivants de VBG ayant bénéficié de la prise en chare holistique,Language.FRENCH
+250,5.3.5.1. Nombre de staffs TPO formés sur la protection contre les exploiations et abus sexuels,Language.FRENCH
+251,5.3.6.1. Nombre de staffs sensibilisés sur le code de bonne conduite et principes directeurs sur les EAS,Language.FRENCH
+252,5.3.6.2. Nombre de staffs ayant signé l'engangement et la politique sur la prévention contre les EAS,Language.FRENCH
+253,"3.3.1.  Pourcentage de personnes vulnérables (désagrégés par sexe et âge) ayant reçu, de façon coordonnée, un paquet EAH inclusive adapté aux besoins différenciés de genre, par rapport au nombre de personnes ciblées dans HAC",Language.FRENCH
+254,3.3.2.1. Nombre de personnes ayant bénéficié de façon coordonnée et opportune un paquet EHA sensible au genre adapté aux besoins de base,Language.FRENCH
+255,"3.3.1. Pourcentage de personnes vulnérables désagrégées par sexe et âge ayant reçu, de façon coordonnée, un paquet WASH inclusive, dignes, adapté aux besoins différentiés de genre, par rapport au nombre de personnes ciblées dans le HRP.",Language.FRENCH
+256,3.3.2.1. Nombre de personnes ayant bénéficié de façon coordonnée et opportune un paquet EHA sensible au genre adapté aux besoins de base.,Language.FRENCH
+257,"3.3.2.3. Nombre d’élèves désagrégés par sexe dans les écoles primaires affectées par le conflit qui ont accès aux services d’eau, hygiène et assainissement.",Language.FRENCH
+258,"3.3.2.5. Nombre de personnes désagrégées par âge et par sexe, qui ont bénéficié des séances de promotion à l’hygiène à travers l'approche participative impliquant les CAC.",Language.FRENCH
+259,"3.3.2.7. Nombre de personnes en situation d’handicap, désagrégées par âge et par sexe bénéficiant d’un paquet WASH dans son ménage.",Language.FRENCH
+260,Nombre d'enfants âgés de 6 à 59 mois atteints de MAS qui sont admis pour traitement.,Language.FRENCH
+261,Nombre d'enfants de 0-59 mois  MAS pris en charge.,Language.FRENCH
+262,4.3.1. Nombre de filles et de garçons (âgés de 5 à 17 ans) touchés par des crises causées par l'homme ou des catastrophes naturelles et ayant accès à une éducation de qualité.,Language.FRENCH
+263,"Nombre de personnes affectées qui participent aux actions d’engagement de proximité (dialogue communautaire, causeries de groupe /porte à porte) pour le changement social et de comportement",Language.FRENCH
+264,35 supports de promotion de la participation des jeunes burundais à GoodWall comme plate-forme de prise de décision éclairée,Language.FRENCH
+265,5.3.3.  Nombre de filles et garçons survivant-e-s de violences sexuelles et basées sur le genre ayant bénéficié d'une réponse holistique,Language.FRENCH
+266,Nombre de survivants de violences basées sur le genre identifié ayant bénéficié de prise en charge psychosociale désagrégés en âge et sexe,Language.FRENCH
+267,"5.3.3.6.  Nombre de filles, de garçons et de femmes ayant survécu à une violence basée sur le genre et recevant une assistance appropriée",Language.FRENCH
+268,Nombre d'infirmiers et relais communautaires formés  sur l'accompagnement psychosocial et la gestion de cas VBG.,Language.FRENCH
+269,"# de personnes (Parents, tuteurs et enfants scolarisés et non scolarisés) du district sanitaire de Giteranyi et Kiganda  ont renforcé leurs connaissances sur la prévention de la maladie des plaies ulcéreuses, à travers la communication  porte à porte (≥ 320,000)",Language.FRENCH
+270,# personnes  infectées par la maladie de plaies ulcereuses diagnostiques pour une prise en charge  appropries,Language.FRENCH
+271,1.3. Nombre d'enfants migrants soutenus pour une intégration socio-économique,Language.FRENCH
+272,Nombre d’adolescents qui participent aux  activités favorisant la cohésion sociale,Language.FRENCH
+273,Nombre d’adolescents et adolescentes avec des compétences accrues de consolidation de la paix et de cocréation des solution innovante UPSHIFT,Language.FRENCH
+274,Nombre d’adolescents participants aux activités d’autonomisation qui favorisent  le dialogue intra-groupe pour la cohésion sociale,Language.FRENCH
+275,Nombre des autorités communales et collinaires mobilisées et sensibilisées pour la mise en œuvre de l'approche ATPC,Language.FRENCH
+276,Nombre de personnes sensibilisées par les messages sur le lavage des mains au savons,Language.FRENCH
+277,"% des élèves (filles, garçons, avec et sans handicap) connaissant les moments critiques et les techniques de lavage des mains au savon",Language.FRENCH
+278,Nombre d’élèves filles et garçons qui ont été sensibilisés sur les moments critiques et les techniques de lavage des mais à l’eau et au savon,Language.FRENCH
+279,Nombre des membres des COPA-COGES formés et accompangnés techniquement dans le processus  s d’élaboration des Plan d’amélioration scolaire/Plan de dévelopement Scolaire.,Language.FRENCH
+280,Nombre des membres des COPA et COGES renforcé en capacité sur la redevabilité et l'engagement citoyen.,Language.FRENCH
+281,Nombre des membres des communautés sensibilisées sur l'importance de l'Education de la fille et non stigmatisation des enfants.,Language.FRENCH
+282,"4.2.2.  Nombre d’adolescents filles et garçons en dehors de l'ecole soutenus pour accéder à l’apprentissage alternatif existant, y compris la formation professionnelle.",Language.FRENCH
+283,"4.2.2.1. Nombre d'enfants et adolescents particulièrement ceux hors de l'école bénéficiant d'un appui  pour l'accès et le maintien à des offres d'éducation formelle et non formelle. désagrégation par genre et profil (enfants au pré-primaire; enfants au primaire, enfants d'age secondaire).",Language.FRENCH
+284,Nombre d’enfants vulnérables des classes de 7eme et 8eme année sécondaire pris en charge en frais scolaires légaux.,Language.FRENCH
+285,Nombre d’enfants vulnérables des classes de 7eme et 8 eme année sécondaire assistes en uniforme,Language.FRENCH
+286,"4.2.3.1. Nombre d'adolescentes ayant participé à des activités de renforcement de capacités pour leur autonomisation, réussite scolaire et insertion socio-économique.",Language.FRENCH
+287,4.3.1. Nombre de filles et de garçons (âgés de 5 à 17 ans) touchés par des crises causées par l'homme ou des catastrophes naturelles et ayant accès à une éducation de qualité,Language.FRENCH
+288,4.3.2. Nombre d'enseignants formés sur le soutien psychosocial,Language.FRENCH
+289,"4.3.3.1 Nombre d'enseignants dans les zones d'urgences formés à au moins une des thématiques suivantes : méthodologies centrées sur l'apprenant,  l'éducation à la paix, la prévention de la COVID-19,  la réduction des risques de conflits et de catastrophes",Language.FRENCH
+290,4.3.3.2. Nombre d'enseignants  dans les zones d'urgences formés sur l'appui psychosocial,Language.FRENCH
+291,Nombre des enseignants formés sur l'inclusion des enfants différents durant l'apprentissage en classe,Language.FRENCH
+292,Nombre d’acteurs étatique et non étatiques formés sur la MRM (outils de reporting et normes) pour la documentation et la gestion des données sur les attaques contre les établissements d'apprentissage.,Language.FRENCH
+293,Nombre d'enfants âgés de 6 à 59 mois atteints de MAS qui sont admis pour traitement,Language.FRENCH
+294,"Nombres des séances thématiques de mobilisation sociale organisées par les 214  adolescents(es) formés  au profit d’autres adolescents (es) non scolarisés/déscolarisés et à l’approche Lifeskills (MGF, la santé des adolescents et les bonnes pratiques nutritionnelles, le lavage des mains au savon , la promotion des pratiques sociales essentielles  )",Language.FRENCH
+295,Nombre de personnes touchées par les messages sur les gestes barrières contre le risque contre le COVID-19,Language.FRENCH
+296,Nombre de personnes engagées dans la COVID-19 par le biais des mesures du RCCE,Language.FRENCH
+297,Nombre de personnes qui partagent leurs préoccupations et posent des questions ou des précisions sur les services de soutien disponibles afin de répondre à leurs besoins au moyen de mécanismes de rétroaction établis,Language.FRENCH
+298,% d’agents communautaires qui ont améliorés leurs connaissances sur  ANJE et les PSE,Language.FRENCH
+299,Nombre d’agents formateurs y compris les adolescents certifiés pour les PSE-ANJE,Language.FRENCH
+300,1.1 Nombre de centres pilotes de transition et d'assistance assurant une prise en charge de qualité aux enfants migrants,Language.FRENCH
+301,1.2. Nombre d'enfants en situation de migration qui bénéficient de services de protection dans le cadre des programmes appuyés par l'UNICEF pendant la durée du projet,Language.FRENCH
+302,1.3. Nombre d'enfants en situation de migration qui bénéficient de services de référencement dans le cadre des programmes appuyés par l'UNICEF pendant la durée du projet,Language.FRENCH
+303,"2.4 Nombre de personnes ayant participés aux ateliers de sensibilisation, promotion et diffusion des droits des enfants migrants",Language.FRENCH
+304,Nombre de femmes allaitantes et enceintes atteintes par les activités de sensibilisation sur les PSE et ANJE dans la zone du projet,Language.FRENCH
+305,"Nombre des mères d’enfants malnutris ayant été atteint par la sensibilisation sur la promotion ANJE, ainsi que les démonstrations culinaires menées par les acteurs communautaires",Language.FRENCH
+306,Nombre d’enfants avec malnutrition aigüe référés par les acteurs communautaires,Language.FRENCH
+307,"Nombre d’adolescents qui ont participé à au moins 3 dialogues communautaires sur les PSE (ANGE, MGF,..) dans les zones du projet",Language.FRENCH
+308,Nombre de communautés qui mettent en œuvre des programmes de changement de comportement en faveur du lavage des mains au savon,Language.FRENCH
+309,Nombre de supports de communication (émissions/productions radio/TV diffusées/articles de presse/film/débat) sur les pratiques sociales essentielles (MGF et ANGE),Language.FRENCH
+310,Nombre d’adolescents (es) ayant renforcé leurs capacités lors des séances thématiques de mobilisation sociale,Language.FRENCH
+311,Nombre d’adolescents et jeunes non scolarisés et déscolarisés issus des CGC formés selon l’approche Lifeskills  dans le cadre de la promotion des PSE,Language.FRENCH
+312,"Nombres des séances thématiques de mobilisation sociale organisés par les  adolescents sur les MGF, la santé des adolescents et les bonnes pratiques nutritionnelles, le lavage des mains au savon , la promotion des pratiques sociales essentielles",Language.FRENCH
+313,Nombre des membres du CGC ayant bénéficié des séances sur la sensibilisation communautaire pour les droits et la protection de l’enfant,Language.FRENCH
+314,Nombre des filles âgées de 0 à 14 ans sauvées des pratiques néfastes comme MGFs et autres violences basées sur le genre dans les zones de mise en œuvre du programme,Language.FRENCH
+315,Nombre de comités de veilles qui collectent le nombre de filles à risque      d’être excisée,Language.FRENCH
+316,Nombre de communautés dans les zones d’intervention du programme dans lesquelles les leaders communautaires/traditionnels dénoncent publiquement les pratiques néfastes y compris les FGM,Language.FRENCH
+317,"Nombre de CGC qui ont mis en place un système de collecte des données sur l’adoption des pratiques sociales essentielles, y compris l’abandon des MGFs",Language.FRENCH
+318,"Nombre de personnes qui participent activement aux dialogues communautaires en faveur de l’abandon des MG, VBG autres pratiques néfastes",Language.FRENCH
+319,Nombre  d’agents de santé dans les etablissements de santé et au niveau communautaire ayant reçu des équipements de protection individuel (COVID-19G);,Language.FRENCH
+320,"de garçons et de filles, déscolarisés et non scolarisés qui participent à l'enseignement/apprentissage primaire dans des programmes soutenus par l'UNICEF",Language.FRENCH
+321,"des enfants inscrits, insérés, et réinsérés font l’objet d’un suivi semestriel (par commune par âge et par sexe)",Language.FRENCH
+322,Nombres d’agents de santé dans les etablissements de santé et au niveau communautaire formés sur la prévention et le contrôle des infections (COVID-19G).,Language.FRENCH
+323,"Nombre de personnes ayant accès à un service d'assainissement « élémentaire », désagrégé par sexe",Language.FRENCH
+324,"Nombre de personne ayant accès à l’eau potable, désagrégé par sexe",Language.FRENCH
+325,Nombre des personnes prises en charge,Language.FRENCH
+326,Nombre de personnes affectées par la crise (ventilée par âge et sexe) ayant bénéficié d’un accès aux soins de santé de base,Language.FRENCH
+327,"Nombre des personnes IDPs ayant été soignées à travers les cliniques mobiles organisées dans les villages (consultation Curative,accouchement, CPN) de retour",Language.FRENCH
+328,Nombre de prestataires formés en ordinogramme.,Language.FRENCH
+329,Nombre de personnes (ventilée par âge et sexe) référées pour les soins secondaires,Language.FRENCH
+330,Nombre de CAC/RECO brieffés sur les techniques de cherches active des cas,Language.FRENCH
+331,# ménages qui sont éclairés avec des lampes LED,Language.FRENCH
+332,"4.2.2.  Nombre d’adolescents filles et garçons en dehors de l'école soutenus pour accéder à l’apprentissage alternatif existant, y compris la formation professionnelle.",Language.FRENCH
+333,4.2.3. Nombre d'enseignants du primaire ayant reçu une formation sur au moins un élément de l'ensemble de la réforme du curriculum,Language.FRENCH
+334,4.2.2.1 Nombre d'enfants et adolescents désagrégés par genre et profil particulièrement ceux hors de l'école bénéficiant d'un appui pour l'accès et le maintien à des offres d'éducation formelle et non formelle,Language.FRENCH
+335,"Nombre des enfants/adolescents hors écoles identifiés, intégrés et maintenus  à l’école.",Language.FRENCH
+336,"4.2.3.1. Nombre d'adolescentes ayant participé à des activités de renforcement de capacités en vue de leur  autonomisation, réussite scolaire et insertion socio-économique.",Language.FRENCH
+337,Nombre d'enfants en dépassement d'âge scolaire appuyés en Kits de réinsertion  socioéconomique,Language.FRENCH
+338,4.2.6.1.  Nombre d'enfants et d'adolescents ayant participé à des activités ludo-éducatives sensibles au genre dans et autour des structures d'éducation et de formation,Language.FRENCH
+339,Nombre d'enfants (filles et garçons) formés sur la  mise en place  et gestion des clubs.,Language.FRENCH
+340,"4.3.3.1 Nombre d'enseignants dans les zones d'urgences formés à au moins une des thématiques suivantes : méthodologies centrées sur l'apprenant,  l'éducation à la paix, la prévention de la COVID19,  la réduction des risques de conflits et de catastrophes",Language.FRENCH
+341,4.3.3.2 Nombre d'enseignants  dans les zones d'urgences formés sur l'appui psychosocial,Language.FRENCH
+342,"Nombre de personnes sensibilisées sur l’importance de l’éducation, prenvention a la covid 19, VBG et PSEA.",Language.FRENCH
+343,"5.1.1.Nombre d'enfants enregistrés dans des bureaux d'états civil principaux et secondaires (incluant dans les maternités, ventilé par sexe)",Language.FRENCH
+344,"5.1.1.1 Nombre d’acteurs formés sur l’enregistrement des naissances (OEC, préposés et autres acteurs)",Language.FRENCH
+345,5.1.1.2. Nombre d’enfants enregistrés dans le délai légal,Language.FRENCH
+346,5.1.1.3 Nombre d’enfants enregistrés dans le délai légal et ayant reçu un acte de naissance,Language.FRENCH
+347,"5.1.2. Nombre d'enfants vulnérables, incluant les EAFGA, enregistrés en dehors du délai légal, sur la base d'un jugement supplétif (ventilé par sexe)",Language.FRENCH
+348,5.2.1. Nombre de filles et garçons vulnérables référé-e-s aux services sociaux de base par des méchanismes de protection informels/communautés protectrices,Language.FRENCH
+349,5.1.2.1.Nombre d’enfants enregistrés à l'état civil par rattrapage,Language.FRENCH
+350,5.1.2.2. Nombre d’enfants enregistrés à l'état civil par rattrapage et ayant reçu l'acte,Language.FRENCH
+351,5.2.1.1.  Nombre de volontaires communautaires/para-travailleurs sociaux formés et opérationnels pour identifier et référer les enfants vulnérables de leur communauté,Language.FRENCH
+352,5.3.4.Nombre de filles et garçons survivant-e-s de violences sexuelles et basées sur le genre ayant bénéficié d'une réponse holistique,Language.FRENCH
+353,"5.3.2.1.  Nombre d'acteurs formés sur la protection en urgence, PSEA et MRM",Language.FRENCH
+354,5.3.3.2. Nombre de filles et de garçons associés aux forces / groupes armés ayant bénéficié d'un soutien pour la réintégration,Language.FRENCH
+355,5.3.3.7. Nombre des hommes femmes garçons filles bénéficiant de mesures de prévention et sensibilisation sur le VBG,Language.FRENCH
+356,"Nombre des personnes du gouvernement et de la societe civile formes sur les documents de politique education d’urgence, FPAM et MAS.",Language.FRENCH
+357,"Nombre des cadres EPST, CRS et CFP formés sur l’elaboration de plan d’amelioration scolaire de 50 EP, 9 CRS, 12 CFP pilotes.",Language.FRENCH
+358,"Nombre des membres des COPA et COGES formés sur  la planification, la gestion, et  le suivi des activités scolaires.",Language.FRENCH
+359,4.2.1.  Nombre d'enfants recevant du matériel d'éducation / d'apprentissage préscolaire individuel (un par enfant) par le biais de programmes soutenus par l'UNICEF,Language.FRENCH
+360,"4.2.2.1. Nombre d'enfants et adolescents particulièrement ceux hors de l'école bénéficiant d'un appui  pour l'accès et le maintien à des offres d'éducation formelle et non formelle.(désagrégation par genre et profil : pré-primaire, primaire, secondaire)",Language.FRENCH
+361,Nombre d’enfants bénéficiaires de paiement des frais scolaires.,Language.FRENCH
+362,"4.3.3.1. Nombre d'enseignants dans les zones d'urgences formés à au moins une des thématiques suivantes : méthodologies centrées sur l'apprenant,  l'éducation à la paix, la prévention de la COVID-19,  la réduction des risques de conflits et de catastrophes.",Language.FRENCH
+363,Nombre d’acteurs d'education formés sur l’évaluation des besoins et analyse des données secondaires dans le contexte des urgences.,Language.FRENCH
+364,Nombre d’agents de l’EPST formés sur l’intégration de la réponse aux urgences dans le plan d’action des sous-divisions educationnelles.,Language.FRENCH
+365,Nombre d’enseignants formés sur  l'inclusion des enfants durant des différents apprentissages en classe.,Language.FRENCH
+366,d’eleves ayant acces aux dispositifs de lavage des mains avec savon Baseline,Language.FRENCH
+367,"d’eleves ayant accès, de manière durable, aux services d'eau potable au cours de l'année considérée uniquement comme résultats de l'appui direct de l'UNICEF",Language.FRENCH
+368,of psychosocial group  sessions,Language.FRENCH
+369,Nombre de personnes atteintes en cordon,Language.FRENCH
+370,Nombre de personnes ayant bénéficié de façon coordonnée et opportune un paquet EHA sensible aux genre adapté aux besoins de base.,Language.FRENCH
+371,Nombre d'acteurs WASH dont les capacités ont été renforcées dans les thématiques clés en lien avec l’epidemie de Cholera.,Language.FRENCH
+372,Nombre de personnes ayant beneficie de la response EHA dans les foyers de Cholera).,Language.FRENCH
+373,"Nombre de personnes affectées par les mouvements de population ayant accès aux services d’eau, hygiène et assainissement inclusive (désagrégé par sexe, âge, et handicap)",Language.FRENCH
+374,Nombre de personnes ayant bénéficié des séances de promotion à l’hygiène désagrégés par sexe et tranche d’âge.,Language.FRENCH
+375,NNombre de personnel et fournisseurs de services de ADSSE formés en PSEA et ayant signé le Code de Conduite.,Language.FRENCH
+376,Nombre de personnes ayant accès aux latrines hygiéniques pour l’éradication de la defecation à l’air libre.,Language.FRENCH
+377,"6.2.3. Nombre d’adolescents, en particulier de filles et d’adolescents socialement exclus, membres actifs de comités représentatifs de l’enfance institués par la stratégie nationale d’autonomisation des adolescents.",Language.FRENCH
+378,Nombre des personnes formées en AGR.,Language.FRENCH
+379,Nombre d'élèves vulnérables appuyés avec les revenus des AGRs,Language.FRENCH
+380,Nombre d'hommes formés sur la vision positive des AGR mises en place par les associations des femmes en faveur des enfants et fonctionnement des ecoles ciblées.,Language.FRENCH
+381,"Nombre des personnes touchées par la sensibilisation sur le VBG, PSEA, COVID19, etc.",Language.FRENCH
+382,Nombre de journalistes et producteurs des radios formés en PFE et approches participatives,Language.FRENCH
+383,"Nombre de membres des associations, des COPA et confessions religieuses formés",Language.FRENCH
+384,Nombre d'élèves sensibilisés,Language.FRENCH
+385,Nombre d'élèves récupérés.,Language.FRENCH
+386,"Nombre de acteurs communautaires formés en PFE, CIP et approches participatives (Membres des CAC, RECO…)",Language.FRENCH
+387,Nombre de membres CAC redynamisées formes,Language.FRENCH
+388,Nombre de parents/tuteurs sensibilises,Language.FRENCH
+389,Nombre de gestionnaires d’écoles touchés par les messages du maintient,Language.FRENCH
+390,"Nombre de personnes sensibilisées, hommes et femmes,  sur les bonnes pratques WASH de prevention choléra.",Language.FRENCH
+391,Nombre de personnes (desagrege en sexe et age) ayant bénéficié de façon coordonnée et opportune un paquet EHA sensible au genre adapté aux besoins de base.,Language.FRENCH
+392,Nombre de personnes (hommes et femmes) de quartiers hotsports choléra ayant accès à l’eau dans les quartiers foyers de choléra.,Language.FRENCH
+393,Nombre d'acteurs leaders locaux dotés des  capacités dans les thématiques clés en lien avec l’epidemie de Cholera (desagregés par sexe).,Language.FRENCH
+394,Nombre total d'enfants de 0-59 mois MAS pris en charge (UNTA + UNTI),Language.FRENCH
+395,Nombre des nouveaux cas MAS admis à l’UNTA,Language.FRENCH
+396,Nombre de nouveaux cas MAS admis à l’UNTI,Language.FRENCH
+397,Nombre total d’enfants déchargés au cours de la période (UNTA+UNTI),Language.FRENCH
+398,Nombre de RECO formés sur la PCIMA/ANJE/WASH,Language.FRENCH
+399,Nombre de personnes ayant accès a des mecanismes surs de plaintes sur les cas d’abus et d’exploitation sexuel  (PSEA),Language.FRENCH
+400,Nombre de staffs TPO et OCB sensibilisés sur la PSEA,Language.FRENCH
+401,Nombre de membre de communauté sensibilisés sur la PSEA,Language.FRENCH
+402,Nombre de survivants de violences basées sur le genre identifié ayant bénéficié de la reinsertion socioeconomique désagrégés en âge et sexe,Language.FRENCH
+403,Nombre de staffs TPO et OBC ayant signés le code de bonne conduite et la politique PSEA,Language.FRENCH
+404,Nombre d'enseignants  dans les zones d'urgences formés sur l'appui psychosocial,Language.FRENCH
+405,"Nombre d'enseignants dans les zones d'urgences formés à au moins une des thématiques suivantes : méthodologies centrées sur l'apprenant,  l'éducation à la paix, la prévention de la COVID-19,  la réduction des risques de conflits et de catastrophes.",Language.FRENCH
+406,Nombre d'acteurs d'education formés sur l’évaluation des besoins et l'analyse des données secondaires dans le contexte des urgences.,Language.FRENCH
+407,Nombre des membres du Cluster Education formés sur la santé mentale et le soutien psychosocial en classe ainsi que l’Education à la Paix.,Language.FRENCH
+408,Nombre des membres du cluster formés sur  le développement des plans de contingence.,Language.FRENCH
+409,Nombre d'agents de l'EPST formés sur l’intégration de la réponse aux urgences dans le plan d’action des sous-divisions educationnelles.,Language.FRENCH
+410,Nombre des membres de COPA et COGES formés sur la réduction des risques de catastrophes au niveau scolaire.,Language.FRENCH
+411,Nombre d'enfants recevant du matériel d'éducation individuel par le biais de programmes soutenus par l'UNICEF.,Language.FRENCH
+412,Nombre d'enseignants du primaire ayant reçu une formation sur au moins un élément de l'ensemble de la réforme du curriculum.,Language.FRENCH
+413,Nombre d'enseignants formés à au moins deux des trois thématiques de la réforme curriculaire (Lecture/écriture-Maths-CVC),Language.FRENCH
+414,Nombre d'enseignants formés à d'autres curricula.,Language.FRENCH
+415,Nombre des enseignants formés sur la pédagogie sensible au genre.,Language.FRENCH
+416,"Nombre des enseignants formés sur   l’hygiène, la nutrition et la santé.",Language.FRENCH
+417,Nombre d'élèves ayant bénéficié des fourniturs scolaires.,Language.FRENCH
+418,Nombre d'enfants et d'adolescents ayant participé à des activités ludo-éducatives sensibles au genre dans et autour des structures d'éducation et de formation.,Language.FRENCH
+419,Nombre d'enseignants formés sur le soutien psychosocial,Language.FRENCH
+420,Nombre d'Unites nutritionnelles fonctionnelles,Language.FRENCH
+421,Nombre de personnes ayant acces a l’eau potable,Language.FRENCH
+422,Nombre d’enfants et d’adultes qui ont accès à un mécanisme sur et accessible pour signaler l’exploitation et les abus sexuel,Language.FRENCH
+423,Nombre de MAS pris en charge en UNTI,Language.FRENCH
+424,Nombre d’enfants 6-59 mois MAM (désagrégé par genre) admis dans les CAC,Language.FRENCH
+425,Nombre des enfants MAM déchargés en CAC,Language.FRENCH
+426,Nombre d’enfants 6-59 mois MAM et MAS (désagrégé par genre) admis dans les structures nutritionnelles,Language.FRENCH
+427,Nombre d’enfants 6-59 mois MAS (désagrégé par genre) admis dans les centres de santé,Language.FRENCH
+428,Nombre d’enfants 6-59 mois MAM (désagrégé par genre) admis dans les centres de santé,Language.FRENCH
+429,Nombre des enfants MAS déchargés des CS,Language.FRENCH
+430,Nombre des enfants MAM déchargés des CS,Language.FRENCH
+431,Nombres de gardiens d’enfant formés/recyclés sur l’utilisation du PB et la détection des œdèmes pour dépister les cas de Malnutrition,Language.FRENCH
+432,"Nombre des prestaires de soins, d’Agents psychosociaux et TPS formés sur la gestion de cas VBG des enfants",Language.FRENCH
+433,# d'enfants non accompagnés (y compris enfants en situation de handicap) identifiés et placés dans une prise en charge familiale transitoire ou une solution de replacement approprié,Language.FRENCH
+434,# d’enfant filles et garçons réunifiés avec leurs familles,Language.FRENCH
+435,# de filles et de garçons (y compris celles et ceux en situation de handicap) ayant survécu à une violence basée sur le genre ayant bénéficié de la prise en charge psychosociale (incluant dans le contexte COVID-19 et MVE),Language.FRENCH
+436,# d’enfants et d’adultes qui ont accès à un mécanisme sur et accessible pour signaler l’exploitation et les abus sexuel,Language.FRENCH
+437,"Nombre d'enfants vulnérables et/ou affectés par les urgences humanitaires bénéficiant de soutien psychosocial, incluant l'accès à des Espaces Amis d'Enfants (désagrégé par âge /genre/handicap)",Language.FRENCH
+438,"Nombre de personnes et enfants sensibilisés sur les risques de séparation familiale, exploitation et abus sexuel et risques de protection de l’enfance désagrégé par âge/genre/handicap",Language.FRENCH
+439,# de graves violations des droits de l'enfant (inclus des violences sexuelles et basées sur le genre) rapportées,Language.FRENCH
+440,Nombre d'enfants de 0-59 mois MAS pris en charge.,Language.FRENCH
+441,"Nombre des nouveaux cas MAS détecté (dépistage actif) dans les ménages (mères, gardiens d’enfants)",Language.FRENCH
+442,Nombre des nouveaux cas MAS détecté (dépistage actif) dans la communauté et admis pour la prise en charge,Language.FRENCH
+443,"Nombre de gardiens d'enfants < 5 ans conseillés en ANJE en situation d’urgence et sur les pratiques familiales essentiels (PFE) au niveau des structures de santé (lors des activités de routine, à la décharge des enfants malnutris aigue…).",Language.FRENCH
+444,Nombre d'influenceurs mobilisés pour la vaccination contre la COVID-19.,Language.FRENCH
+445,Nombre de partenaires ayant des capacités renforcées en communication pour la vaccination contre la COVID-19.,Language.FRENCH
+446,"Nombre de jeunes bloggeurs, Jeunes U reporters formés et actifs en faveur de la vaccination contre la COVID-19.",Language.FRENCH
+447,Nombre de adolescents ayant des capacités renforcées en communication pour la vaccination contre la COVID-19.,Language.FRENCH
+448,"Nombre des partenaires atteint grâce à des activités de sensibilisation de PEAS,",Language.FRENCH
+449,Pourcentage du personnel du projet renforcé en capacité  ayant signé le code de conduite PSEA.,Language.FRENCH
+450,of ToT participants,Language.FRENCH
+451,"Nombre d'eleves(filles et garcons, y compris les eleves en situation de handicap) dans les ecoles primaires affectées par le conflit  ou catastrophes naturelles ou epidemies ayant acces aux services d'eau , hygiene et assainissement.",Language.FRENCH
+452,# individus touchés par des activités de sensibilisation communautaire et des messages sur enregistrement des naissances  Cible totale : ≥ 242 855 personnes,Language.FRENCH
+453,5.3.1 Nombre de filles et de garçons associés à des groupes armés ayant bénéficié d'une réintégration socio-économique dans leurs communautés,Language.FRENCH
+454,"5.3.3.3 Nombre de filles et de garçons non accompagnés & EAFGA identifiés et placés dans une prise en charge transitoire ou une solution alternative appropriée (CTO, FAT, FAS, etc.)",Language.FRENCH
+455,5.3.3.2 Nombre de filles et de garçons associés aux forces / groupes armés ayant bénéficié d'un soutien pour la réintégration,Language.FRENCH
+456,5.3.3.4 Nombre de filles et de garçons non accompagnés réunifies avec leur famille ou bénéficiant de solutions durable,Language.FRENCH
+457,"5.3.3.5. Nombre de filles et de garçons vulnérables bénéficiant de soutien psychosocial/santé mentale, incluant l'accès aux Espaces Amis d'Enfants",Language.FRENCH
+458,5.3.3.8. Nombre de filles & femmes SVS et adolescentes dans les EAE bénéficiant d’un kit de dignité,Language.FRENCH
+459,"5.3.3.10 Nombre d’hommes, femmes, garçons, filles sensibilisées sur la prévention de séparation et protection de l’enfant",Language.FRENCH
+460,5.3.3.14. Nombre d’enfant vulnérables identifiés dans les EAE et référés vers les services de pris en charge adéquats.,Language.FRENCH
+461,5.3.2 Nombre de filles et garçons survivantes de violences sexuelles et basées sur le genre ayant bénéficié d'une réponse holistique,Language.FRENCH
+462,"5.3.3.9 Nombre d’hommes, femmes, garçons, filles sensibilisées sur la prévention COVID-19",Language.FRENCH
+463,".3.3.11. Nombre d’enfants dépendants des filles sorties des forces et groupes armés, ENA, et VVS assistés.",Language.FRENCH
+464,5.3.5.1. Nombre de personnes ayant accès à des mécanismes surs de plaintes sur les cas d’abus et d’exploitation sexuel (PSEA).,Language.FRENCH
+465,# des mineurs en contact avec la loi (victimes)ayant beneficiés d'un accompagnement,Language.FRENCH
+466,# des mineurs poursuivis devant les juridictions ayant beneficiés d'un accompagnement juridique,Language.FRENCH
+467,# des leaders communautaires ayant ameliorés leurs connaissances en matiere des droits des enfants,Language.FRENCH
+468,# des personnes sensbilisées sur les droits des mineurs,Language.FRENCH
+469,# des mineurs en detention ayant ameliorés leur connaissance en droit civique,Language.FRENCH
+470,# des travailleurs sociaux formés sur la prise en charge des cas de PEAS et des VBGs,Language.FRENCH
+471,# des enfants victimes filles et garcons ayant été identifiés et referés vers les services appropriés,Language.FRENCH
+472,# des sensibilisations communautaires conduites sur les PEAS et les VBG's et les services de prise en charge,Language.FRENCH
+473,# d'enfants associés aux forces/ groupes armés identifiés et ayant bénéficié d'un suivi individuel désagrégé par âge/genre/handicap,Language.FRENCH
+474,# Nombre des sensibilisateurs IDTR formés sur la protection de l’enfant et les notions de sensibilisation.,Language.FRENCH
+475,# d'enfants associés aux forces / groupes armés ayant bénéficié d'un soutien pour la réintégration socio-économique et réinsertion communautaire,Language.FRENCH
+476,"Nombre de filles et de garçons vulnérables bénéficiant de soutien psychosocial/santé mentale, incluant l'accès aux Espaces Amis d'Enfants",Language.FRENCH
+477,Nombre de filles et de garçons non accompagnés réunifies avec leur famille ou bénéficiant de solutions durable,Language.FRENCH
+478,"Nombre de filles, de garçons et de femmes ayant survécu à une violence basée sur le genre et recevant une assistance appropriée",Language.FRENCH
+479,Nombre d’enfants qui participent dans les EAE,Language.FRENCH
+480,Nombre d’enfant vulnérables identifiés dans les EAE et référés vers les services de pris en charge adéquats.,Language.FRENCH
+481,"Nombre d’hommes, femmes, garçons, filles sensibilisées pour la prévention de VBG & PSEA",Language.FRENCH
+482,Nombre de personnes ayant bénéficié de mesures d'atténuation des risques EAS/VBG,Language.FRENCH
+483,"Nombre des staffs, CBO formés sur PSEA/Genre",Language.FRENCH
+484,Nombre des cas d’EAS pris en charge,Language.FRENCH
+485,Nombre des personnes ayant accès à l’assainissement de base.,Language.FRENCH
+486,Nombre d’eleves Filles et Garçons ayant amélioré l’accès aux services EHA dans les écoles.,Language.FRENCH
+487,Nombre des personnes sensibilisés sur la promotion sanitaire,Language.FRENCH
+488,"Nombre des femmes et filles qui participent dans des consultations communautaires qui sont focalisées sur la perception des risques, sécurité, accessibilité aux programmes soutenus par UNICEF",Language.FRENCH
+489,Proportion des femmes et des filles qui participent aux comités de gestion,Language.FRENCH
+490,Nombre de formateurs formés en santé sexuelle et reproductive pour adolescent(e) et jeune / SSRAJ - Approche par compétences,Language.FRENCH
+491,Nombre des prestataires de santé et de l’éducation formés en SSRAJ,Language.FRENCH
+492,Nombre des activistes jeune formés en SSARJ,Language.FRENCH
+493,% des personnes (désagrégées par sexe) qui ont été atteintes avec des messages sur les services VBG disponibles,Language.FRENCH
+494,Nombre des prestataires des soins formés pour la prise en charge des adolescents/jeunes en matière de la santé sexuelle et reproductive,Language.FRENCH
+495,Nombre des adolescents/jeunes ayant fréquentés le CDS et sensibilisés sur IEC sur la SSRAJ et les compétences à la vie,Language.FRENCH
+496,Nombre d’EAFGA (F/G) réintégrés bénéficiant d’au moins 3 suivis post réunification / réintégration,Language.FRENCH
+497,Nombre d’enfants  encadrés dans les EAE,Language.FRENCH
+498,"Nombre d'enfants vulnérables référés à des structures de prise en charge appropriée selon leurs besoins spécifiques (aux soins médicaux / centres nutritionnels, ecole, justice,… )",Language.FRENCH
+499,Nombre  d’EAFGA (F/G) qui bénéficient d’une formation socio professionnelle,Language.FRENCH
+500,"Nombre de survivants de cas GBV identifiées (désagrégé par sexe, âge, type de violences)",Language.FRENCH
+501,Nombre de victimes des violences sexuelles ayant bénéficié de la prise en charge psychosociale,Language.FRENCH
+502,Nombre des membres de famille/ communauté des victimes de VVS qui  bénéficiént de la prise en charge psychosociale,Language.FRENCH
+503,Nombre de survivant (e)s qui bénéficient de l’appui aux AGR,Language.FRENCH
+504,"Nombre d'enfants non enregistré à l'Etat Civil (hors délai) participants aux activités EAE identifiés et ceux de la commaunutés (écoles, vaccination, …).",Language.FRENCH
+505,Nombre d'enfants et d'adultes qui ont accès à un mécanisme de plainte sûr et accessible pour signaler l’exploitation et les abus sexuels,Language.FRENCH
+506,"Nombre d’enfants non accompagnés, ES pris en charge dans les FAT (alimentation, soins médicaux, kits).",Language.FRENCH
+507,Nombre d'enfants vulnérables bénéficiant d’une réintégration socio-économique,Language.FRENCH
+508,Nombre des MAF identifiés et appuyés,Language.FRENCH
+509,Nombre de conjoints/ partenaires pris en charge sur le plan psychosocile,Language.FRENCH
+510,Nombre de victimes VBG référées pour une assistance,Language.FRENCH
+511,Nombres des survivants des VBG et EAS bénéficiant des AVEC,Language.FRENCH
+512,Nombre d'enfant hors délai recevant l'acte de naissance à travers un jugement suppletif,Language.FRENCH
+513,Nombres d’enfants victimes des cas MRM pris en charge,Language.FRENCH
+514,"Nombre d'acteurs membres du S/GTPE Lulimba formés sur la protection de l'enfant en situation d'urgence,  les outils du rapportage (6W, Tableau Sitrep,…)",Language.FRENCH
+515,Nombre de présumés EAFGA identifiés (F/G),Language.FRENCH
+516,Nombre total d’ENA (F/G) réunifiés avec leurs familles et communautés et ayant bénéficié d’au moins 1 suivi post-réunification,Language.FRENCH
+517,Nombre d'enfants vulnérables identifiés pour le soutien pyschosocial et santé mental à travers les EAE,Language.FRENCH
+518,Nombre des ENA et OEV  réintégrés à l’école grâce au programme,Language.FRENCH
+519,"Nombre des dépendants des ENA, EAFGA et bénéficient d’une prise en charge et reçoivent le kit d’hygiène",Language.FRENCH
+520,Nombre de victimes d’EAS / GBV identifiées référées pour une assistance légale/accompagnement juridique,Language.FRENCH
+521,"Nombre d'officiers supérieurs et subalternes autres agents de sécurité formé sur differents thèmes notamment la resolution 1612 , la protection de l'enfant en situation d'urgence et sur plan d'action ONU-RDC",Language.FRENCH
+522,"Nombre de membres de RECOPE, prevention GBV, leaders communautaires, membres club des jeunes  formés sur la protection de l’enfant, Politique de prevention contre l’EAS, Gestion des cas GBV et protection, … dans leur communauté",Language.FRENCH
+523,"Nombre du Staff d'ACAD formé sur la protection de l'enfant en situation d'urgence, Politique de prevention contre l’EAS, Gestion des cas GBV et protection, MRM, logiciel Comptable Quick Books et les outils de rapportage GTPE",Language.FRENCH
+524,"Nombre de points Focaux d'ACAD (dans les sites de mises en œuvre des activités du projet : Kimbi Lulenge, Minembwe et Itombwe) formés sur PEAS, GBV (gestion de cas), Protection de l’enfant",Language.FRENCH
+525,1-1 Nombre de communes ODF maintenant leur statut ODF dans l'année (suivant une vérification /évaluation externe),Language.FRENCH
+526,1-2 Nombre cumulatif de personnes vivant dans les villages ODF selon le protocole national ODF (désagrégé par sexe et handicap),Language.FRENCH
+527,Nombre de nouveaux villages certifie ODF selon le protocole national ODF,Language.FRENCH
+528,"1-4 Nombre cumulatif de personnes ayant accès aux services d'assainissement et d’hygiène basique, y compris une installation de lavage des mains avec de l'eau et du savon/cendre dans les communautés ciblées (désagrégé par sexe et handicap)",Language.FRENCH
+529,1-5  Nombre de groupes d’associations VSLA constitué et fonctionnels,Language.FRENCH
+530,"1-6 Nombre d'entreprises/entrepreneurs fonctionnels fournissant différents types de produits d'assainissement et d'hygiène améliorés, ventilés par genre et ayant un plan d’affaire",Language.FRENCH
+531,1-7 Nombre cumulatif de femmes et de filles bénéficiant d'un programme de gestion de l'hygiène menstruelle dans les communautés,Language.FRENCH
+532,"1-11 Nombre cumulé de personnes utilisant le service d'eau potable de base dans les communautés ciblées, ventilé par sexe et handicap",Language.FRENCH
+533,Nombre de personnes vivant dans des communautés résilientes au changement climatique,Language.FRENCH
+534,1-12 Nombre de personnes vivant dans des communautés résilientes au changement climatique,Language.FRENCH
+535,1-13 Proportion de points d'eau nouvellement construits ou réhabilités dans les communautés ciblées fonctionnant pleinement au moment de l'inspection indépendante entreprise par des tiers (contrôle de durabilité),Language.FRENCH
+536,1-14 Proportion de communautés déclenchées et qui maintiennent leur statut ODF dans l'année suivant le déclenchement (suivant une vérification /évaluation externe),Language.FRENCH
+537,"2-1 Nombre cumulé de personnes ayant accès aux services d'assainissement de base, y compris une installation de lavage des mains avec de l'eau et du savon dans les communautés ciblées (désagrégé par sexe et handicap)",Language.FRENCH
+538,Pourcentage de femmes et de filles utilisant des serviettes hygiéniques abordables et accessibles sur le marché local,Language.FRENCH
+539,"1-9 Proportionnalité de centres de santé, centres de nutrition certifies trois Etoiles qui maintiennent leur statut Etoile dans l’année suivante",Language.FRENCH
+540,1-9 Proportionnalité d’écoles certifies trois Etoiles qui maintiennent leur statut Etoile dans l’année suivante,Language.FRENCH
+541,1-10 Proportionnalité d'écoles avec des activités de gestion de l'hygiène menstruelle mises en œuvre,Language.FRENCH
+542,"1-8 Nombre d'écoles, d'établissements de santé (cliniques, centres de santé, hôpitaux, etc.) ayant accès aux services WASH de base (3 étoiles) dans les communes AiO",Language.FRENCH
+543,"2-2 Nombre d'écoles, d'établissements de santé (cliniques, centres de santé, hôpitaux, etc.) ayant accès aux services WASH de base",Language.FRENCH
+544,2-3 Pourcentage de femmes et de filles utilisant des serviettes hygiéniques abordables et accessibles sur le marché local,Language.FRENCH
+545,"2-4 Nombre cumulé de ménages ayant acheté des systèmes de produits améliorés, pour la construction de nouvelles toilettes et / ou la modernisation d'installations et de services existants",Language.FRENCH
+546,3-1 Nombre de communautés (municipalités et écoles incluses) formées à la résilience climatique,Language.FRENCH
+547,"3-2 Nombre de pactes de durabilité signés par les municipalités et partenaires WASH, avec des plans d'intervention basés sur les résultats des contrôles de durabilité semestriels",Language.FRENCH
+548,3-3 Pourcentage de communes ayant signés des partenariats public-privé opérationnels dans le secteur de l'eau et de l'assainissement,Language.FRENCH
+549,# mères leaders identifiées et validées,Language.FRENCH
+550,# des personnes Hommes et Femmes sensibilisées sur le lavage de mains au marché de Kamagema/ Panzi.,Language.FRENCH
+551,Nombre des personnes sensibilisées  via stratégies diverses,Language.FRENCH
+552,"Nombre de personnes ayant accès à des mécanismes surs de plaintes sur les cas d’abus et d’exploitation sexuel (PSEA),",Language.FRENCH
+553,"# de personnes Hommes et Femmes sensibilisées sur les droits, canaux et services de signalement d'EAS, y compris les services VBG disponibles pour les victimes",Language.FRENCH
+554,Proportion des femmes et des filles impliquées dans les mécanismes de décisions à tous les niveaux,Language.FRENCH
+555,4.3.2.1.1. Nombre d'enfants garçons et filles ayant bénéficiés les kits scolaires,Language.FRENCH
+556,4.3.2.1.2. Nombre d'enseignants hommes et femmes ayant bénéficiés les kits enseignants,Language.FRENCH
+557,4.3.2.2.1. Nombre d'enfants ayant suivi les cours de rattrapage scolaire,Language.FRENCH
+558,4.3.2.3.4. Nombre d’enseignants et directeurs hommes et femmes formés sur la PSEA,Language.FRENCH
+559,4.3.2.3.5. Nombre d’enseignants et directeurs hommes et femmes formés/briefés sur l’Education à la paix,Language.FRENCH
+560,4.3.2.3.6. Nombre d’enseignants et directeurs (H/F) formés/briefés sur l’accompagnement et soutien psycho sociale,Language.FRENCH
+561,4.3.2.3.7. Nombre d’enseignants et directeurs (hommes et femmes ayant signés le code de conduite et le PSEA,Language.FRENCH
+562,4.3.2.3.12 Nombre de personnes ayant accès à des mécanismes sur de plaintes sur les cas d’abus et d’exploitation sexuel (PSEA,Language.FRENCH
+563,"4.3.2.3.13 Nombre d’hommes, femmes, garçons, filles sensibilisées pour la prévention de VBG & PSEA,",Language.FRENCH
+564,"4.3.2.3.14 Nombre de femmes et filles qui participent dans des consultations communautaires qui sont focalisées sur la perception des risques, sécurité accessibilité aux programmes soutenus par UNICEF",Language.FRENCH
+565,"4.3.2.3.15 Nombre de personnes ayant bénéficié de mesures d'atténuation des risques EAS/VBG,",Language.FRENCH
+566,"4.3.2.4.3. Nombre de personnes (hommes et femmes, Filles/garcons) sensibilisées",Language.FRENCH
+567,4.3.2.4.5. Nombre d'élèves ayant pris part aux activités récréatives dans les écoles,Language.FRENCH
+568,4.3.2.4.6. Nombre d'élèves ayant bénéficié de l’accompagnement ou soutien psycho social individuel en milieu scolaire,Language.FRENCH
+569,4.3.2.4.7. Nombre de filles ayant bénéficiée de la dotation en kits hygiène intime en milieu scolaire,Language.FRENCH
+570,Nombre de personnes additionnelles ayant accès aux services d'assainissement au moins basique avec l'appui de l'UNICEF,Language.FRENCH
+571,Nombre de personnes additionnelles vivant dans les communautés déclarées FDAL avec l'appui de l'UNICEF,Language.FRENCH
+572,"Nombre d'enfants en contact avec la loi (ECL, ESD, victimes, témoins, cas civils, etc.) ayant bénéficié d'un accès à un méchanisme de justice spécialisé ou à toute autre forme d'assistance légale (juvenile)",Language.FRENCH
+573,"Nombre d'enfants enregistrés dans des bureaux d'états civil principaux et secondaires (incluant dans les maternités, ventilé par sexe)",Language.FRENCH
+574,"Nombre d'enfants ayant survécu à des violences, abus ou de la negligence, notamment les survivants de violences sexuelles et basées sur le genre et les enfants de la rue, bénéficiant d'une réponse individuelle (médicale, santé mentale et psychosociale, éducative ou  de réintégration socio-économique)",Language.FRENCH
+575,Nombre d'enfants non-accompagnés ou séparés ayant bénéficié d'une réunification avec leurs famille,Language.FRENCH
+576,Nombre de filles et garçons survivant-e-s de violences sexuelles et basées sur le genre ayant bénéficié d'une réponse holistique,Language.FRENCH
+577,"% de personnes vulnérables ayant reçu, de façon coordonnée, un paquet EAH inclusive adapté aux besoins par rapport au nombre de personnes ciblées",Language.FRENCH
+578,"Nombre de personnes formées pour la gestion et maintenance de  sources, latrines publiques et artisanats réparateurs",Language.FRENCH
+579,Nombre de filles et de garçons associé-e-s à des groupes armés ayant bénéficié d'une réintégration socio-économique dans leurs communautés,Language.FRENCH
+580,"Nombre d'enfants vulnérables ayant bénéficié d'assistance psychosociale à des niveaux variés: enfant, adolescents, prestataires de soin et communautés",Language.FRENCH
+581,"Nombre de filles et de garçons non accompagnés identifiés et placés dans une prise en charge transitoire ou une alternative appropriée (CTO, FAT, FAS, etc.)",Language.FRENCH
+582,Nombre de filles et de garçons non accompagnés réunifies avec leur famille ou bénéficiant de solutions durables,Language.FRENCH
+583,Nombre de filles et de garçons associés aux forces / groupes armés ayant bénéficié d'un soutien pour la réintégration,Language.FRENCH
+584,"Nombre de filles et de garçons vulnérables bénéficiant de soutien psychosocial, incluant l'accès aux Espaces Amis d'Enfants",Language.FRENCH
+585,Nombre de personnes ayant accès à des mécanismes surs de plaintes sur les cas d’abus et d’exploitation sexuels  (PSEA),Language.FRENCH
+586,Nombre de personnes ayant bénéficié de mesures d'atténuation des risques VBG,Language.FRENCH
+587,"Nombre d’acteurs formés sur l’enregistrement des naissances (OEC, préposés et autres acteurs)",Language.FRENCH
+588,Nombre d’enfants enregistrés dans le délai légal et ayant reçu un acte de naissance,Language.FRENCH
+589,"Nombre de filles et de garçons ayant accès à une justice spécialisée à travers un TPE ou Tripaix faisant office de TPE (désagrégé par sexe et par type de contact avec la loi : ECL, victimes, témoins, affaires civiles, et enfants en situation difficiles (ESD))",Language.FRENCH
+590,"Nombre de filles et de garçons en contact avec la loi ayant reçu une assistance légale (désagrégé par sexe et par type de contact : ECL, victimes, survivant(e) VSBG, témoins et affaires civiles",Language.FRENCH
+591,Nombre d'ECL (filles et garçons) ayant bénéficié d'une mesure alternative à la détention (en FAT/SAT/RAP - mesure provisoire ou définitive),Language.FRENCH
+592,Nombre de filles et de garçons ayant été privés de leur liberté identifiés et assistés (désagrégé par sexe),Language.FRENCH
+593,Nombre d'acteurs judiciaires formés (désagrégé par sexe),Language.FRENCH
+594,Nombre d'intervenants sociaux formés en protection de l'enfance et opérationnels,Language.FRENCH
+595,Nombre de filles et garçons vulnérables référé-e-s aux services sociaux de base par des méchanismes de protection informels/communautés protectrices,Language.FRENCH
+596,Nombre de personnes sensibilisées sur l'enregistrement des naissances,Language.FRENCH
+597,Nombre d'ECL (filles et garçons) ayant bénéficié d'un compromis via un comité de médiation (désagrégé par sexe),Language.FRENCH
+598,Nombre de filles et de garçons associés à des groupes armés ayant bénéficié d'une réintégration socio-économique dans leurs communautés,Language.FRENCH
+599,Nombre d'enfants non-accompagnés ou séparés ayant bénéficié d'une réunification avec leurs familles ou d'une solution à long-terme,Language.FRENCH
+600,"Nombre d'enfants vulnérables ayant bénéficié d'assistance psychosociale à des niveaux variés: enfants, adolescents, prestataires de soins et communautés",Language.FRENCH
+601,Nombre de filles et garçons survivant(e)s de violences sexuelles et basées sur le genre ayant bénéficié d'une réponse holistique,Language.FRENCH
+602,Nombre de filles et de garçons associés aux forces / groupes armés identifiés et ayant bénéficié d'un suivi individuel,Language.FRENCH
+603,Nombre des ménages et personnes recevant une assistance rapide multisectorielle,Language.FRENCH
+604,% des populations beneficiaires ayant declaré etre satisfait des interventions du projet.,Language.FRENCH
+605,Proportion des personnels formées sur la prévention de l'exploitation et des abus sexuels et ayant signé le code de conduite PSEA,Language.FRENCH
+606,Nombre d'enfants recevant du matériel d'éducation / d'apprentissage préscolaire individuel (un par enfant) par le biais de programmes soutenus par l'UNICEF,Language.FRENCH
+607,"Nombre d’enfants qui bénéficient de sensibilisations réalisées sur les causes de la non-scolarisation, l’abandon scolaire et le droit à l’éducation des filles",Language.FRENCH
+608,"bénéficiaires, ayant accès à un mécanisme de signalement EAS qui sont conformes aux normes essentielles de déclaration (à savoir la sécurité, la confidentialité, la transparence, l'accessibilité) et s'assure que les bénéficiaires en ont connaissance.",Language.FRENCH
+609,# Espaces renforcés et sécurisés,Language.FRENCH
+610,"Enfants qui ont participé à des programmes de développement des compétences (life skills , compétences du XXIème siècle, etc.)",Language.FRENCH
+611,"Enfants qui bénéficient des services de protection dans les espaces de sécurisation (encadrement, maraude du jour, écoute, identification des ESR, soutien psychosocial, services médicaux, services juridique…)",Language.FRENCH
+612,de personnel ayant bénéficié d’une formation/mise à jour sur les GBV(iE),Language.FRENCH
+613,enfants de 0-5 ans stimulés par leurs parents à la maison et ou dans la communauté,Language.FRENCH
+614,Travailleurs sociaux d’OIDEB renforcés en gestion de cas,Language.FRENCH
+615,ESR et autres enfants à risque réintégrés à l’école et bénéficiant des kits scolaires,Language.FRENCH
+616,ESR et autres enfants à risques bénéficiant des visites de suivi post-réintégration,Language.FRENCH
+617,# Comite de protection des enfants (CPE) mise en place et/renforcés (formés),Language.FRENCH
+618,Groupes (GS) Nawe Nuze suivis,Language.FRENCH
+619,filles socialement a besoin spécifiques participants dans les activités d’épargne et crédit dans les groupes de solidarité,Language.FRENCH
+620,chefs de ménages en charge de filles vulnérables participant dans les groupes de solidarité Nawe Nuze,Language.FRENCH
+621,"filles identifies qui ont achevé les formations sur le leadership, gestion des cas, la traite et PEAS.",Language.FRENCH
+622,"filles identifies bénéficiant de l’insertion socioéconomique via la réintégration scolaire, l’insertion via les métiers ou les AGR",Language.FRENCH
+623,filles et garcons vulnérables qui bénéficient des services sociaux de base adéquats,Language.FRENCH
+624,personnes touchées par les sensibilisations,Language.FRENCH
+625,"de personnel (staff, volontaire, Points Focaux, sous-traitant) et bénéficiaire sensibilisés sur le EAS",Language.FRENCH
+626,"de bénéficiaires, ayant accès à un mécanisme de signalement EAS qui sont conformes aux normes essentielles de déclaration (à savoir la sécurité, la confidentialité, la transparence, l'accessibilité) et s'assure que les bénéficiaires en ont connaissance.",Language.FRENCH
+627,Nombre de personnes (enfants et adultes) ayant accès a un mécanisme de signalement et rapportage de EAS,Language.FRENCH
+628,Nombre d’enfants et femmes accédant à l'atténuation des risques de violence basée sur le genre et les interventions de prévention,Language.FRENCH
+629,"Nombre d’ acteurs de l'école, en particulier d’enfants référés dans les centres spécialisés",Language.FRENCH
+630,Nombre de personnes sensibilisées y inclus les bénéficiaires sensibilisés sur l’EAS et les mecanismes de signalement#,Language.FRENCH
+631,"1.1 # de CPE ayant reçu des formations de recyclages pour leur opérationnalisation afin d’assurer la prévention, protection et suivi/référencement des enfants victimes d’abus, violences et exploitations.",Language.FRENCH
+632,"1.2 # groupes de solidarités développés, redynamisés et fonctionnels (communes Cankuzo et Mishiha et Cendajuru) qui fournissent des services de protection aux enfants en mobilité, rapatriés ou survivants de violations graves (VBG, SEA, traite), d'abus et d'exploitation.",Language.FRENCH
+633,"2.1 # enfants rapatriés, refugiés, déplacés et autres vulnérables ayant reçu un extrait d’acte de naissance.",Language.FRENCH
+634,"2.2 # enfants en mobilité, rapatriés ou survivants de violations graves (VBG, SEA, traite), d'abus et d'exploitation ayant eu accès aux services de mitigation des risques et de réponse à travers les dispositifs de prise en charge alternatifs appropriés, réunification familiale, réintégration sociale et économique",Language.FRENCH
+635,2.3 # enfants qui participent aux activités récréatives et de soutien psychosocial collectif et individuel à travers la mise en place des points d’écoute.,Language.FRENCH
+636,2.4. # des jeunes adolescents en mobilité ou à risque ont accès aux opportunités d’apprentissage et de création d’emploi pour leur réinsertion socioéconomique.,Language.FRENCH
+637,"2.5 # d’enfants et adolescents survivants des VBG qui accèdent aux services et sont à la prise en charge médicale, psychosociale de qualité",Language.FRENCH
+638,2.6 # d’enfants rapatriés et vulnérables scolarisés qui reçoivent un soutien psychosocial et un suivi pour leur maintien à l’école,Language.FRENCH
+639,"3.1 # d’enfant (filles et garçons) et adultes (hommes et femmes), jeunes sensibilisés sur l’accès aux services critiques de protection de l'enfance : prévention des violations y compris les VBG et l’accès aux services de réponse aux victimes, gestion des cas et référencement)",Language.FRENCH
+640,3.3.# Nombre d’enfants survivants de la traite ayant bénéficié d’une réintégration socioéconomique,Language.FRENCH
+641,Nombre d’enfants vulnérables des classes de 7ème et 8 ème années sécondaires suivis pour leur fréquentation et retention en milieu scolaire,Language.FRENCH
+642,"Nombre d’adolescents filles et garçons en dehors de l'ecole soutenus pour accéder à l’apprentissage alternatif existant, y compris la formation professionnelle.",Language.FRENCH
+643,"Nombre d’enfants MAS pris en charge en CAC dans la ZS de Bambu,",Language.FRENCH
+644,Nombre d’enfants MAM pris en charge dans les CAC et dans les CS à Bambu et Jiba,Language.FRENCH
+645,Nombre total d'enfants de 0-59 mois Malnutris aigue (MAS + MAM) pris en charge,Language.FRENCH
+646,"Nombre de MAS déchargés au CAC,",Language.FRENCH
+647,Nombre de MAS déchargés au centre de santé,Language.FRENCH
+648,Nombre de MAM déchargé dans les CAC,Language.FRENCH
+649,Nombre de MAM déchargé dans les CS de Bambu et Jiba,Language.FRENCH
+650,Taux de guérison (UNTA/UNTI) % (nombre d’enfant total),Language.FRENCH
+651,Taux d’abandon (UNTA/UNTI) % (nombre d’enfant total),Language.FRENCH
+652,Taux de décès (UNTA/UNTI) % (nombre d’enfant total),Language.FRENCH
+653,Nombre de cas de Malnutrition aigüe (MAS+MAM) ≤ 90 mm détecté (dépistage actif) dans la communauté et référés pour la prise en charge,Language.FRENCH
+654,Nombre de personnes sensibilisées sur l’ANJE-U,Language.FRENCH
+655,Nombre d'enfants âgés de 6 à 59 mois atteints de malnutrition aiguë sévère qui sont admis en traitement et qui se rétablissent,Language.FRENCH
+656,Nombre d'enfants âgés de 6 à 59 mois atteints de malnutrition aiguë sévère qui sont admis pour traitement et dont le traitement est défaillant,Language.FRENCH
+657,Nombre d’enfant âgés de 6à 59 mois atteint de malnutrition augue sévère qui sont admis en traitement et qui se rétablissent,Language.FRENCH
+658,Nombre d’enfant agés de 6  à59 mois atteint de malnutrition aigüe sévère qui sont admis pour traitement et dont le traitement est défaillant,Language.FRENCH
+659,Taux de décès,Language.FRENCH
+660,# d’enfants (filles et garçons) réfugiés et autochtones vulnérables de 3-5 ans identifiés et ayant bénéficié de l’accès à l’éducation de qualité,Language.FRENCH
+661,# d’enfants (filles et garçons) réfugiés/autochtones de 3-5 ans ayant été suivis dans la fréquentation scolaire dans les ECD.,Language.FRENCH
+662,# d'enfants réintégrés dans le programme du primaire ayant reçu les messages sur la PSEA.,Language.FRENCH
+663,Nombre de filles et de garçons (âgés de 5 à 17 ans) touchés par des crises causées par l'homme ou des catastrophes naturelles et ayant accès à une éducation de qualité.,Language.FRENCH
+664,Nombre d'enseignants formés sur le soutien psychosocial.,Language.FRENCH
+665,"Nombre d’enfants (filles et garçons) ayant accès à l'éducation à travers la mise en place Espace Temporaire d’Apprentissage (ETA), Espace Ami des Enfants (EAE) dans les zones affectées par les crises humanitaires",Language.FRENCH
+666,Nombres d'enfants ayant bénéficié des Kits scolaires et pédagogiques dans les zones affectées par les crises,Language.FRENCH
+667,"Nombre d'enseignants dans les zones d'urgences formés à au moins une des thématiques suivantes : méthodologies centrées sur l’apprenant, l’éducation à la paix, la prévention de la MVE,  la réduction des risques de conflits et de catastrophes",Language.FRENCH
+668,Nombre d’enseignants dans les zones d'urgences formés sur l'appui psychosocial.,Language.FRENCH
+669,Nombre d’enfants deplacés de 6 à 11 ans hors système scolaire réintégrés dans le système scolaire au tour du site  de Rhoe à  travers les cours de récupération.,Language.FRENCH
+670,Nombre d’enfants de 6 à 11 ans réintégrés à l’école qui sont appuyés avec des kits scolaires.,Language.FRENCH
+671,"Nombre d’enseignants et directeurs identifiés ayant renforcé leurs connaissances sur l’Education en urgence, l’appui psycho social en classe et l’Education à la paix.",Language.FRENCH
+672,Nombre de personnes formées sur les thèmes transversaux de protection et de la paix en milieu scolaire.,Language.FRENCH
+673,Nombre des membres des communautés sensibilisés sur la protection de l’enfant et la protection de milieu éducatif et le PSEA,Language.FRENCH
+674,NOMBRE D'ENFANT,Language.FRENCH
+675,Nombre d'enseigants,Language.FRENCH
+676,Nombre d'enseignants formés sur le protocole COVID-19,Language.FRENCH
+677,Nombre d'enfants recevant du  materiel d'apprentissage indivuduel  ( UNICEF HACE ) : F1&F2,Language.FRENCH
+678,Nombre des filles et garcons qui ont acces a une opportunité d'apprentissage  a distances ( a travers la radio),Language.FRENCH
+679,Nombre d'eleves du F2 dotés en kits solaires,Language.FRENCH
+680,Nombre de parents/enseignants,Language.FRENCH

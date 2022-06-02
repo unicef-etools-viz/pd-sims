@@ -1,7 +1,3 @@
-#from decimal import Overflow
-#from tkinter import Scrollbar
-#from tkinter.tix import IMAGE
-#from turtle import width
 import pandas as pd
 import matplotlib as plt
 import plotly.express as px
@@ -22,13 +18,14 @@ st.set_page_config(page_title = 'PD Similarities',
 img = Image.open('img/logo.png')
 st.image(img, caption = 'eTools Report Viz', width=200)
 
-st.title("PROGRAMME DOCUMENT SIMILIARITIES REPORT")
+st.title("PROGRAMME DOCUMENT SIMILARITIES REPORT")
 
 #importing clusters dataset
 df = pd.read_csv('data/pd_clusters.csv')
 df_3d = pd.read_csv('data/pd_3d_clusters.csv')
 df_all_cluster = pd.read_csv('data/pd_all_cluster.csv')
 df_matrix = pd.read_csv('data/pd_matrix_similarity.csv').iloc[0:100,0:100] #sample of 100 
+df_pd = pd.read_csv('data/pd_data.csv')
 
 data_sun = df_all_cluster.groupby(by=['cluster','country_name','section_name','disaggregation_name','location_name']).count()['title'].sort_values(ascending = False).reset_index()
 data_bar_country = df_all_cluster.groupby(by=['country_name']).count()['title'].reset_index().sort_values(by=['title'],ascending = True)
@@ -37,6 +34,32 @@ data_bubble = df.groupby(by = 'cluster').count()['id'].sort_values(ascending = F
 data_bubble.columns = ['cluster','#title']
 
 data_table_cluster_max = df.query("cluster==106")[['cluster','title']]
+
+
+#data comparing all pd's vs duplicates pd's per country
+data_all = df_pd.groupby(by='country_name').count()['title']
+data_duplicates = df_all_cluster.groupby(by='country_name').count()['title']
+
+def isDuplicated(value):
+    try:
+        if data_duplicates[value]>0:
+            return True
+        else:
+            return False
+    except:
+        return False
+
+
+duplicates = [data_duplicates[x] if isDuplicated(x) else 0 for x in data_all.index]
+percentage_duplicates = [data_duplicates[x]/data_all[x]*100 if isDuplicated(x) else 0 for x in data_all.index]    
+
+df_duplicates = pd.DataFrame(data_all.reset_index())
+df_duplicates['duplicates'] = duplicates
+df_duplicates['percentage'] = percentage_duplicates
+
+
+
+
 #ADDING SELECTORS TO STREAMLIT DASHBOARD
 
 # Add a selectbox to the sidebar:
@@ -150,7 +173,7 @@ fig_table_cluster.update_layout(
 #BLOCK 1
 st.subheader("RESUME")
 st.write("The purpose of this work was to gather the PD indicator titles that are similar to each other and that are being used by differente countries in the PRP module.")
-st.write("To complete this work we proceeded to use Natural Language Processing (NLP) methods and obtain semantic information "\
+st.write("To complete this work we proceeded to use Natural Language Processing (NLP) methods ([Sentence Transformer](https://huggingface.co/sentence-transformers)) and obtain semantic information "\
             "from the titles of each PD, so we can find similar sentences not only comparing words, but also its context. "\
                                 "These methods were only applied to those PD titles available in English corresponding 90% of all registered PD's title indicators.")   
 
@@ -158,6 +181,8 @@ st.write("Once the similarity matrix is obtained, only those PD titles with a si
 
 st.subheader("Let's explore the data through visuals")
 
+st.write("We are going to approach the work obtaining the unique titles of the PD's that construct our NLP text corpus, and then analyze the similarity of each sentence"\
+        " against all of them, this step will allow us to build a similarity matrix.")
 
 st.markdown("- Number unique PD titles found on PD-Indicators: **"+str(df.title.nunique())+"**")
 st.markdown("- Number of clusters with similarity between 95% and 99%: **"+str(df.cluster.nunique())+"**")
@@ -178,7 +203,7 @@ col2.plotly_chart(fig_table_cluster)
 
 #BLOCK 3
 st.write("Now let's explore the vectors of the PD titles through a 3d graph to get an idea of how the texts are distribued in 3d space. "\
-        "A sample of matrix similarity using the Cosine Similarity method is also presented. Most similar text are painted with a dark blue tone. ")
+        "A sample of matrix similarity using the [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) method is also presented. Most similar text are painted with a dark blue tone. ")
 
 col3, col4 = st.columns(2)
 
@@ -189,29 +214,39 @@ col4.plotly_chart(fig_matrix_heatmap)
 st.subheader("Merging similar clusters with PD-indicators data")
 
 st.write("With all the information generated, now is the time to combine the data with the information from the pd-indicators dataset. "\
-    "With this we will be able to analyze which countries, sections and other attributes are generating duplicity of information based on "\
+    "With this process we will be able to analyze which countries, sections and other attributes are generating duplicity of information based on "\
         "PD's titles indicators.")
 
+
+#BLOCK 5
 col5, col6 = st.columns(2)
 
+col5.dataframe(df_duplicates.sort_values(by='percentage',ascending=False))
+
+col6.write("From the table presented on the left, Uganda concentrates the highest percentage PD's duplicates with almost 50% compared with all PD's registered"\
+            ", followed by Sudan with 43% and Libya with 32%")
+
+st.plotly_chart(fig_sun)
+st.write("Grouping the data by country and by section, we can identify that Jordan concentrates the largest number of duplicate PD's, followed by Libya and Uganda.")
 
 
 
-#col2.plotly_chart(fig_matrix_heatmap)
+
+st.subheader("Conclusions")
+
+st.subheader("References")
+
+st.subheader("Downloads")
+@st.cache
+def convert_df(df):
+     # IMPORTANT: Cache the conversion to prevent computation on every rerun
+     return df.to_csv().encode('utf-8')
 
 
-#To carry out this work, we proceeded to use Natural Language Processing (NLP) methods to obtain semantic information from the titles of each PD, in this way we can perform a search for similar sentences using the cosine similarity method.")
-
-#col3.subheader("Similar PD distribution by countries")
-#col3.write("As can be seen in the distribution of similar PDs grouped by country and by section, "\
-#    "Jordan has the highest use of similar indicator titles, followed by Libya and Uganda.")
-#col3.plotly_chart(fig_sun, use_column_width = True)
-
-
-#col4.subheader("Similar PD distribution by sections")
-#col4.plotly_chart(fig_sun_section, use_column_width = False)
-
-
-
-#st.plotly_chart(fig, use_column_width = True)  
+st.download_button(
+     label="Download Cluster PD's data as CSV",
+     data=convert_df(df_all_cluster),
+     file_name='all_pd_clusters.csv',
+     mime='text/csv',
+ )
 

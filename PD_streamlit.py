@@ -158,7 +158,7 @@ fig_table_cluster = go.Figure(data=[go.Table(
                                     align='left'))
                         ])
 fig_table_cluster.update_layout(
-    width=650,
+    width=600,
     height=400,
     margin=dict(
         l=1,
@@ -193,15 +193,16 @@ st.write("##")
 
 col1, col2 = st.columns(2)
 
-col1.write("If we analyze the graph below we can identify that cluster 106 contains 23 PD titles that are similar.")
+col1.write("If we analyze the graph below we can identify that cluster 106 contains 23 PD titles that are similar context")
 col1.plotly_chart(fig_cluster_bubble)
+
 
 
 col2.write("Let's show table data related with cluster 106:")
 col2.plotly_chart(fig_table_cluster)
 
-
 #BLOCK 3
+st.write("All PD's title seem similar, with some differences including especial characters like '#' or words order, but in general the sentence has the same purpose.")
 st.write("Now let's explore the vectors of the PD titles through a 3d graph to get an idea of how the texts are distribued in 3d space. "\
         "A sample of matrix similarity using the [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) method is also presented. Most similar text are painted with a dark blue tone. ")
 

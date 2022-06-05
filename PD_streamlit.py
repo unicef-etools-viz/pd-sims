@@ -241,7 +241,7 @@ col6.write("From the left table, data displayed includes the number of unique pd
     "(duplicates) and the ratio between both columns. All rows with country aggregation.")
 
 col6.write("Angola concentrates the highest percentage PD's duplicates with almost 17% compared with all PD's registered"\
-            ", followed by Papua New Guinea with 11% and Sudan with 10%. Although Jordan has the largest number of PD's, duplication only represents 31%")
+            ", followed by Papua New Guinea with 11% and Sudan with 10%. Although Jordan has the largest number of PD's, duplication only represents 7%")
 
 #BLOCK 8
 st.write("##")
